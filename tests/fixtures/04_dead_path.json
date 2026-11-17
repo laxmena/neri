@@ -1,0 +1,16 @@
+{
+ "kind": "paths",
+ "text": "Entry point is `src/main.py`. Deploy with `scripts/deploy.sh`. Docs: [guide](docs/guide.md).\n",
+ "tree": [
+  "src/main.py",
+  "docs/guide.md",
+  "README.md"
+ ],
+ "expect_dead": [
+  "scripts/deploy.sh"
+ ],
+ "expect_alive": [
+  "src/main.py",
+  "docs/guide.md"
+ ]
+}

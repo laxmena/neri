@@ -1,0 +1,31 @@
+{
+ "kind": "imports",
+ "texts": {
+  "CLAUDE.md": "# Project\nSee @docs/a.md for details. Contact me@example.com or use `@types/node`.\n```\n@docs/ignored.md\n```\n",
+  "docs/a.md": "More: @docs/b.md\n",
+  "docs/b.md": "leaf\n"
+ },
+ "expect_extract": {
+  "CLAUDE.md": [
+   "docs/a.md"
+  ],
+  "docs/a.md": [
+   "docs/b.md"
+  ],
+  "docs/b.md": []
+ },
+ "edges": [
+  {
+   "from": "CLAUDE.md",
+   "to": "docs/a.md"
+  },
+  {
+   "from": "docs/a.md",
+   "to": "docs/b.md"
+  }
+ ],
+ "expect_reach": [
+  "docs/a.md",
+  "docs/b.md"
+ ]
+}

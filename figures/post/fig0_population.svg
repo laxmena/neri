@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="677.072969pt" height="373.775pt" viewBox="0 0 677.072969 373.775" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-16T22:04:03.408705</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 373.775 
+L 677.072969 373.775 
+L 677.072969 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 97.2 282.472 
+L 362.914286 282.472 
+L 362.914286 121.696 
+L 97.2 121.696 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 97.2 282.472 
+L 97.2 121.696 
+" clip-path="url(#p34d29ac429)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="97.2" y="296.444" transform="rotate(-0 97.2 296.444)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 131.36941 282.472 
+L 131.36941 121.696 
+" clip-path="url(#p34d29ac429)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="131.36941" y="296.444" transform="rotate(-0 131.36941 296.444)">0.2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 165.538821 282.472 
+L 165.538821 121.696 
+" clip-path="url(#p34d29ac429)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="165.538821" y="296.444" transform="rotate(-0 165.538821 296.444)">0.4</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 199.708231 282.472 
+L 199.708231 121.696 
+" clip-path="url(#p34d29ac429)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="199.708231" y="296.444" transform="rotate(-0 199.708231 296.444)">0.6</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 233.877642 282.472 
+L 233.877642 121.696 
+" clip-path="url(#p34d29ac429)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="233.877642" y="296.444" transform="rotate(-0 233.877642 296.444)">0.8</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 268.047052 282.472 
+L 268.047052 121.696 
+" clip-path="url(#p34d29ac429)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="268.047052" y="296.444" transform="rotate(-0 268.047052 296.444)">1.0</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 302.216463 282.472 
+L 302.216463 121.696 
+" clip-path="url(#p34d29ac429)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="302.216463" y="296.444" transform="rotate(-0 302.216463 296.444)">1.2</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 336.385873 282.472 
+L 336.385873 121.696 
+" clip-path="url(#p34d29ac429)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="336.385873" y="296.444" transform="rotate(-0 336.385873 296.444)">1.4</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="230.057143" y="313.259" transform="rotate(-0 230.057143 313.259)">files found by GitHub code search (millions)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_17"/>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #6b6b76" x="93.7" y="170.78" transform="rotate(-0 93.7 170.78)">AGENTS.md</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_18"/>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #6b6b76" x="93.7" y="243.86" transform="rotate(-0 93.7 243.86)">CLAUDE.md</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 97.2 150.928 
+L 301.595604 150.928 
+L 301.595604 180.16 
+L 97.2 180.16 
+z
+" clip-path="url(#p34d29ac429)" style="fill: #9a9aa6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 97.2 224.008 
+L 246.977852 224.008 
+L 246.977852 253.24 
+L 97.2 253.24 
+z
+" clip-path="url(#p34d29ac429)" style="fill: #9a9aa6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 97.2 282.472 
+L 362.914286 282.472 
+" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #1a1a2e" x="305.012545" y="168.8695" transform="rotate(-0 305.012545 168.8695)">1.20 M files</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #1a1a2e" x="250.394793" y="241.9495" transform="rotate(-0 250.394793 241.9495)">0.88 M files</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #1a1a2e" x="97.2" y="115.696" transform="rotate(-0 97.2 115.696)">Files found per name</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_6">
+    <path d="M 413.641558 282.472 
+L 655.2 282.472 
+L 655.2 121.696 
+L 413.641558 121.696 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_9">
+     <g id="line2d_19"/>
+     <g id="text_15">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="413.641558" y="296.444" transform="rotate(-0 413.641558 296.444)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_20"/>
+     <g id="text_16">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="474.031169" y="296.444" transform="rotate(-0 474.031169 296.444)">25%</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_21"/>
+     <g id="text_17">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="534.420779" y="296.444" transform="rotate(-0 534.420779 296.444)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_22"/>
+     <g id="text_18">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="594.81039" y="296.444" transform="rotate(-0 594.81039 296.444)">75%</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_23"/>
+     <g id="text_19">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="655.2" y="296.444" transform="rotate(-0 655.2 296.444)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="patch_7">
+    <path d="M 413.641558 184.499125 
+L 437.651988 184.499125 
+L 437.651988 219.668875 
+L 413.641558 219.668875 
+z
+" clip-path="url(#p501f9c909f)" style="fill: #9a9aa6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 437.651988 184.499125 
+L 655.2 184.499125 
+L 655.2 219.668875 
+L 437.651988 219.668875 
+z
+" clip-path="url(#p501f9c909f)" style="fill: #8b5cf6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 413.641558 282.472 
+L 655.2 282.472 
+" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #1a1a2e" x="425.646773" y="205.779" transform="rotate(-0 425.646773 205.779)">10%</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #ffffff" x="546.425994" y="206.632" transform="rotate(-0 546.425994 206.632)">90%</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="425.646773" y="163.8997" transform="rotate(-0 425.646773 163.8997)">Popular (10+ stars)</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #8b5cf6" x="546.425994" y="163.8997" transform="rotate(-0 546.425994 163.8997)">Small &amp; personal (0–9)</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #1a1a2e" x="413.641558" y="115.696" transform="rotate(-0 413.641558 115.696)">Who owns them: repos with an agent file, by star count</text>
+   </g>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #6b6b76" transform="translate(7.2 72.355875)">Left: raw code-search hits before any filter. Right: estimated split of active public repos that have an agent file (weighted from</text>
+   <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #6b6b76" transform="translate(7.2 87.561031)">33,762 sampled; 95% CI 89.7%–90.4%).</text>
+  </g>
+  <g id="text_26">
+   <text style="font-weight: 700; font-size: 16px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #1a1a2e" transform="translate(7.2 23.33625)">About 90% of repos with an agent file have fewer than 10 stars;</text>
+   <text style="font-weight: 700; font-size: 16px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #1a1a2e" transform="translate(7.2 47.225)">they are the bulk of the population</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 8.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #6b6b76" transform="translate(7.2 348.006352)">Code search only sees default branches and excludes forks and archived repos.</text>
+   <text style="font-size: 8.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #6b6b76" transform="translate(7.2 361.861219)">neri census of public GitHub · Nov 2026 · n = 33,762 sampled repos · weighted; 95% intervals</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p34d29ac429">
+   <rect x="97.2" y="121.696" width="265.714286" height="160.776"/>
+  </clipPath>
+  <clipPath id="p501f9c909f">
+   <rect x="413.641558" y="121.696" width="241.558442" height="160.776"/>
+  </clipPath>
+ </defs>
+</svg>

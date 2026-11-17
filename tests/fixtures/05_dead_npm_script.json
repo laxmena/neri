@@ -1,0 +1,17 @@
+{
+ "kind": "cmds",
+ "text": "Run `npm run build` then `npm run lint`.\nNever run `npm run clean`.\n",
+ "tree": [
+  "package.json",
+  "src/a.js"
+ ],
+ "manifests": {
+  "package.json": "{\"scripts\": {\"build\": \"tsc\"}}"
+ },
+ "expect_dead": [
+  "lint"
+ ],
+ "expect_alive": [
+  "build"
+ ]
+}

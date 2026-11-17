@@ -1,0 +1,194 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>neri explorer (local)</title>
+<style>
+:root{--bg:#f6f7f9;--panel:#fff;--fg:#1c2128;--mut:#667085;--line:#e4e7ec;--acc:#2f6fed;--acc2:#dbe6ff;--bad:#d92d20;--bad2:#fee4e2;--good:#079455;--good2:#d1fadf;--warn:#b54708;--warn2:#fef0c7;--bar:#cfd6e2;--sh:0 1px 2px rgba(16,24,40,.06),0 1px 3px rgba(16,24,40,.08)}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--panel:#151b23;--fg:#e6edf3;--mut:#8b98a8;--line:#27303b;--acc:#6ea0ff;--acc2:#1d2b4a;--bad:#ff8277;--bad2:#3a1d1b;--good:#4ad295;--good2:#10301f;--warn:#f5b455;--warn2:#35280f;--bar:#2c3644;--sh:none}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,sans-serif}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+header{background:var(--panel);border-bottom:1px solid var(--line);padding:14px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap;position:sticky;top:0;z-index:20}
+header h1{font-size:17px;margin:0;font-weight:650;letter-spacing:-.01em}
+.sub{color:var(--mut);font-size:13px}.pill{font-size:11px;font-weight:600;padding:2px 8px;border-radius:99px;background:var(--warn2);color:var(--warn);white-space:nowrap}
+.spacer{flex:1}
+.wrap{display:grid;grid-template-columns:260px minmax(0,1fr);gap:20px;max-width:1500px;margin:0 auto;padding:20px 24px 60px}
+@media(max-width:900px){.wrap{grid-template-columns:1fr}}
+aside{position:sticky;top:76px;align-self:start;max-height:calc(100vh - 92px);overflow:auto;padding-right:4px}
+.box{background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--sh)}
+.fg{padding:12px 14px;border-bottom:1px solid var(--line)}.fg:last-child{border-bottom:0}
+.fg h3{margin:0 0 6px;font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--mut);font-weight:650}
+.opt{display:flex;align-items:center;gap:8px;padding:3px 0;cursor:pointer;font-size:13px}.opt input{margin:0;accent-color:var(--acc)}
+.opt .c{margin-left:auto;color:var(--mut);font-variant-numeric:tabular-nums;font-size:12px}.opt.zero{opacity:.45}
+input[type=search]{width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg);font:inherit}
+input[type=search]:focus{outline:2px solid var(--acc2);border-color:var(--acc)}
+button{font:inherit;background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:5px 12px;cursor:pointer}button:hover{border-color:var(--acc)}
+button.lnk{border:0;background:none;color:var(--acc);padding:0}
+.help{padding:12px 16px;margin-bottom:16px;color:var(--mut);font-size:13px;background:var(--panel);border:1px solid var(--line);border-radius:10px;display:flex;gap:10px;align-items:flex-start}
+.help b{color:var(--fg)}.chips{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 14px;min-height:26px;align-items:center}
+.chip{background:var(--acc2);color:var(--acc);border-radius:99px;padding:2px 10px;font-size:12px;font-weight:550;cursor:pointer}.chip:after{content:" \00d7"}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:16px}
+.card{padding:12px 14px}.card .k{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--mut);font-weight:650}
+.card .v{font-size:24px;font-weight:650;letter-spacing:-.02em;margin-top:2px}.card .s{font-size:12px;color:var(--mut)}
+h2{font-size:14px;margin:22px 0 10px;font-weight:650}
+.charts{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.ch{padding:10px 12px 6px}.ch h4{margin:0;font-size:13px;font-weight:600;display:flex;gap:6px;align-items:center}
+.ch .m{font-size:12px;color:var(--mut);margin-bottom:2px}.ch svg{display:block;width:100%;height:104px}
+.ch svg text{fill:var(--mut);font-size:9.5px}.bin{cursor:pointer}.bin:hover .f{opacity:.8}
+.info{display:inline-flex;width:15px;height:15px;border-radius:50%;border:1px solid var(--line);color:var(--mut);font-size:10px;align-items:center;justify-content:center;cursor:help;flex:none}
+table{border-collapse:collapse;width:100%}th{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--mut);font-weight:650;text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);cursor:pointer;white-space:nowrap}
+th.on{color:var(--fg)}td{padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:middle}
+tr.r{cursor:pointer}tr.r:hover td{background:var(--bg)}tr.r.sel td{background:var(--acc2)}
+.repo{font-weight:600;min-width:210px}.repo small{display:block;color:var(--mut);font-weight:400;font-size:12px}
+.bar{display:flex;align-items:center;gap:8px;min-width:130px}.bar i{display:block;height:8px;border-radius:4px;background:var(--acc);min-width:2px}.bar span{font-variant-numeric:tabular-nums;font-size:13px}
+.b{display:inline-block;font-size:11.5px;font-weight:600;padding:1px 8px;border-radius:99px;background:var(--bg);border:1px solid var(--line);color:var(--mut);margin-right:4px;white-space:nowrap}
+.b.bad{background:var(--bad2);color:var(--bad);border-color:transparent}.b.good{background:var(--good2);color:var(--good);border-color:transparent}.b.warn{background:var(--warn2);color:var(--warn);border-color:transparent}.b.acc{background:var(--acc2);color:var(--acc);border-color:transparent}
+.more{text-align:center;padding:14px}.none{padding:40px;text-align:center;color:var(--mut)}
+#dr{position:fixed;top:0;right:0;height:100vh;width:min(520px,100vw);background:var(--panel);border-left:1px solid var(--line);box-shadow:-8px 0 24px rgba(16,24,40,.12);transform:translateX(105%);transition:transform .18s;z-index:40;overflow:auto;padding:20px 22px 40px}
+#dr.open{transform:none}#dr h2{font-size:18px;margin:0 0 2px}#dr h3{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--mut);margin:20px 0 8px}
+.x{position:absolute;top:14px;right:16px;font-size:20px;border:0;background:none;color:var(--mut);cursor:pointer}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:6px 18px}.grid2 div{display:flex;justify-content:space-between;border-bottom:1px dashed var(--line);padding:3px 0;font-size:13px}.grid2 span{color:var(--mut)}
+.fl{border:1px solid var(--line);border-radius:8px;padding:8px 10px;margin-bottom:6px;font-size:13px}.fl code{background:var(--bg);padding:1px 5px;border-radius:4px;word-break:break-all}
+.note{font-size:12px;color:var(--mut);margin-top:6px}
+.pop{position:fixed;z-index:60;max-width:340px;background:var(--fg);color:var(--bg);padding:8px 10px;border-radius:8px;font-size:12px;box-shadow:0 8px 24px rgba(0,0,0,.25);display:none}
+details{margin-top:24px}summary{cursor:pointer;font-weight:600}dl{display:grid;grid-template-columns:max-content 1fr;gap:6px 16px;margin-top:10px}dt{font-weight:600}dd{margin:0;color:var(--mut)}
+</style></head><body>
+<header><h1>neri explorer</h1><span class="sub" id="meta"></span><span class="spacer"></span>
+<label class="opt" style="margin:0"><input type="checkbox" id="dev"> include dev repos (tuning set)</label>
+<span class="pill">LOCAL ONLY &middot; third-party text &middot; never publish</span></header>
+<div class="wrap"><aside><div class="box"><div class="fg"><input type="search" id="q" placeholder="Search repo, command, skill..."></div><div id="facets"></div>
+<div class="fg"><button id="reset">Reset all filters</button></div></div></aside>
+<main>
+<div class="help"><div>&#9432;</div><div><b>How to use.</b> Tick filters on the left, or <b>click a bar</b> in any chart to keep only repos in that range. Charts show all repos in grey and your current selection in blue. <b>Click a table row</b> for the detail panel. The URL keeps your view, so you can bookmark it. "Flagged" counts come from an <b>unvalidated</b> detector (M5 gate not met): treat them as leads, not facts.</div></div>
+<div class="chips" id="chips"></div><div class="cards" id="cards"></div>
+<h2>Distributions <span class="sub">(raw, unweighted)</span></h2><div class="charts" id="charts"></div>
+<h2>Repos <span class="sub" id="cnt"></span></h2><div class="box" style="overflow-x:auto"><table><thead id="th"></thead><tbody id="tb"></tbody></table><div class="more" id="more"></div></div>
+<details><summary>How each column and metric is computed</summary><dl id="docs"></dl></details>
+</main></div>
+<div id="dr"></div><div class="pop" id="pop"></div>
+<script>
+const D=__DATA__;
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const nf=v=>v==null||isNaN(v)?'-':Math.abs(v)>=1000?Math.round(v).toLocaleString():(Math.round(v*100)/100).toString();
+const pct=v=>(100*v).toFixed(0)+'%';
+const med=a=>{a=a.filter(x=>x!=null&&!isNaN(x)).sort((x,y)=>x-y);return a.length?a[Math.floor((a.length-1)/2)]:null};
+const gh=(r,p)=>`https://github.com/${r.repo}/blob/${r.sha}/${p}`;
+$('#meta').textContent=`checkpoint ${D.tag} · ${D.n_repos} repos · generated ${D.generated}`;
+// ---- state (kept in the URL hash) ----
+const S={q:'',f:{},rng:{},dev:false,sort:'always_loaded',asc:false,lim:60,open:null};
+function save(){const p=new URLSearchParams();if(S.q)p.set('q',S.q);if(S.dev)p.set('dev','1');p.set('sort',S.sort+(S.asc?'+':'-'));
+ for(const[k,v]of Object.entries(S.f))if(v.size)p.set('f.'+k,[...v].join('|'));for(const[k,v]of Object.entries(S.rng))p.set('r.'+k,v.join('~'));if(S.open)p.set('open',S.open);
+ history.replaceState(null,'','#'+p)}
+function load(){const p=new URLSearchParams(location.hash.slice(1));S.q=p.get('q')||'';S.dev=p.get('dev')==='1';const s=p.get('sort');if(s){S.asc=s.endsWith('+');S.sort=s.slice(0,-1)}
+ for(const[k,v]of p){if(k.startsWith('f.'))S.f[k.slice(2)]=new Set(v.split('|'));if(k.startsWith('r.'))S.rng[k.slice(2)]=v.split('~').map(Number)}S.open=p.get('open')}
+// ---- facets ----
+const yn=b=>b?'yes':'no';
+const FACETS=[
+ {k:'toolchain',t:'Toolchain',g:r=>r.toolchain,tip:'toolchain'},
+ {k:'structure',t:'Structure',g:r=>r.structure,tip:'structure'},
+ {k:'files',t:'Files at repo root',g:r=>r.files==='C'?'CLAUDE.md only':r.files==='A'?'AGENTS.md only':'both',tip:'repo'},
+ {k:'stratum',t:'Population stratum',g:r=>r.stratum,tip:'stratum'},
+ {k:'stars',t:'Stars',g:r=>r.bucket,tip:'stars'},
+ {k:'skills',t:'Has skills',g:r=>yn(r.skills>0),tip:'skills'},
+ {k:'eco',t:'Ecosystem files',g:r=>D.eco.filter(e=>r.eco[e]),tip:'a7',multi:true},
+ {k:'flag',t:'Detector flags (unvalidated)',g:r=>[r.paths_dead?'dead path':null,r.cmds_dead?'dead command':null,r.unknown?'unknown (truncated tree)':null].filter(Boolean).concat(!r.paths_dead&&!r.cmds_dead?['no flags']:[]),tip:'paths_dead',multi:true},
+];
+const METRICS=[
+ {k:'always_loaded',t:'Always-loaded tokens',log:true,g:r=>r.always_loaded,tip:'always_loaded_tokens'},
+ {k:'tokens',t:'File tokens (root only)',log:true,g:r=>r.tokens,tip:'tokens'},
+ {k:'lines',t:'Lines',log:true,g:r=>r.lines,tip:'lines'},
+ {k:'headings',t:'Headings',log:true,g:r=>r.headings,tip:'headings'},
+ {k:'code_blocks',t:'Code blocks',log:true,g:r=>r.code_blocks,tip:'code_blocks'},
+ {k:'links',t:'Links',log:true,g:r=>r.links,tip:'links'},
+ {k:'shout',t:'Shouting per 1K tokens',log:false,g:r=>r.shout,tip:'shout_per_1k'},
+ {k:'neg',t:'Negation share of rules',log:false,g:r=>r.neg,tip:'negation_share'},
+ {k:'imp',t:'Imperative share of bullets',log:false,g:r=>r.imp,tip:'imperative_share'},
+ {k:'stars_m',t:'Stars',log:true,g:r=>r.stars,tip:'stars'},
+];
+const base=()=>D.rows.filter(r=>S.dev||!r.dev);
+function match(r,skipF,skipR){
+ if(S.q){const h=(r.repo+' '+r.cmds.join(' ')+' '+r.skill_names.join(' ')).toLowerCase();if(!S.q.toLowerCase().split(/\s+/).every(t=>h.includes(t)))return false}
+ for(const f of FACETS){if(f.k===skipF)continue;const sel=S.f[f.k];if(!sel||!sel.size)continue;const v=[].concat(f.g(r));if(!v.some(x=>sel.has(x)))return false}
+ for(const m of METRICS){if(m.k===skipR)continue;const rg=S.rng[m.k];if(!rg)continue;const x=m.g(r);if(x==null||x<rg[0]||x>rg[1])return false}
+ return true}
+// ---- info popover ----
+const pop=$('#pop');
+function tipHTML(key){return `<span class="info" data-tip="${esc(key)}">i</span>`}
+document.addEventListener('mouseover',e=>{const t=e.target.closest('[data-tip]');if(!t){pop.style.display='none';return}
+ const txt=D.docs[t.dataset.tip];if(!txt){return}pop.textContent=txt;pop.style.display='block';const b=t.getBoundingClientRect();pop.style.left=Math.min(innerWidth-360,Math.max(8,b.left))+'px';pop.style.top=(b.bottom+6)+'px'});
+// ---- render ----
+function renderFacets(){let h='';for(const f of FACETS){const all=base(),cnt={};
+  for(const r of all){if(!match(r,f.k,null))continue;for(const v of new Set([].concat(f.g(r))))cnt[v]=(cnt[v]||0)+1}
+  const allv={};for(const r of all)for(const v of new Set([].concat(f.g(r))))allv[v]=1;
+  const keys=Object.keys(allv).sort((a,b)=>(cnt[b]||0)-(cnt[a]||0));if(!keys.length)continue;
+  h+=`<div class="fg"><h3>${f.t} ${tipHTML(f.tip)}</h3>`+keys.map(v=>`<label class="opt ${cnt[v]?'':'zero'}"><input type="checkbox" data-f="${f.k}" data-v="${esc(v)}" ${S.f[f.k]?.has(v)?'checked':''}>${esc(v)}<span class="c">${cnt[v]||0}</span></label>`).join('')+'</div>'}
+ $('#facets').innerHTML=h}
+function renderChips(){const c=[];if(S.q)c.push(['q','search: '+S.q]);for(const[k,v]of Object.entries(S.f))for(const x of v)c.push(['f.'+k+'.'+x,(FACETS.find(f=>f.k===k)?.t||k)+': '+x]);
+ for(const[k,v]of Object.entries(S.rng)){const m=METRICS.find(m=>m.k===k);c.push(['r.'+k,`${m.t}: ${nf(v[0])}–${nf(v[1])}`])}
+ $('#chips').innerHTML=c.length?c.map(([id,t])=>`<span class="chip" data-chip="${esc(id)}">${esc(t)}</span>`).join(''):'<span class="sub">No filters applied. Showing every repo.</span>'}
+function renderCards(rows){const n=rows.length,both=rows.filter(r=>r.files==='C+A').length,sk=rows.filter(r=>r.skills>0).length,fl=rows.filter(r=>r.paths_dead>0).length;
+ const c=(k,v,s)=>`<div class="box card"><div class="k">${k}</div><div class="v">${v}</div><div class="s">${s}</div></div>`;
+ $('#cards').innerHTML=c('Repos',n.toLocaleString(),`of ${base().length.toLocaleString()} total`)+c('Median always-loaded',nf(med(rows.map(r=>r.always_loaded)))+' tok','tokens the agent reads every session')+
+ c('Have skills',n?pct(sk/n):'-',`${sk} repos`)+c('Both CLAUDE.md + AGENTS.md',n?pct(both/n):'-',`${both} repos`)+c('Flagged dead path',n?pct(fl/n):'-','unvalidated detector')}
+function niceTicks(lo,hi,log){const t=[];
+ if(log){if(lo<=1e-9)t.push(0);for(let p=0;p<=7;p++){const v=10**p;const y=Math.log10(v+1);if(y>=lo-1e-9&&y<=hi+1e-9)t.push(v)}return t}
+ const span=(hi-lo)||1,raw=span/4,p=10**Math.floor(Math.log10(raw)),f=raw/p,st=(f<1.5?1:f<3.5?2:f<7.5?5:10)*p;
+ for(let v=Math.ceil(lo/st-1e-9)*st;v<=hi+1e-9;v+=st)t.push(+v.toFixed(6));return t}
+const tickLabel=(v,log)=>log?(v>=1e6?v/1e6+'M':v>=1000?v/1000+'k':String(v)):nf(v);
+function renderCharts(){let h='';const all=base();
+ for(const m of METRICS){const av=all.map(r=>m.g(r)).filter(x=>x!=null&&!isNaN(x));if(!av.length)continue;
+  const tr=x=>m.log?Math.log10(x+1):x,inv=y=>m.log?10**y-1:y;const t=av.map(tr);const lo=Math.min(...t),hi=Math.max(...t),B=26,W=250,H=104,L=2,Bt=18;
+  const bin=y=>hi>lo?Math.min(B-1,Math.floor((y-lo)/(hi-lo)*B)):0;
+  const ca=new Array(B).fill(0),cf=new Array(B).fill(0);for(const x of t)ca[bin(x)]++;
+  const fr=all.filter(r=>match(r,null,m.k));const fv=fr.map(r=>m.g(r)).filter(x=>x!=null&&!isNaN(x));for(const x of fv)cf[bin(tr(x))]++;
+  const mx=Math.max(...ca,1),bw=(W-2*L)/B;let s=`<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">`;
+  const rg=S.rng[m.k];
+  for(let i=0;i<B;i++){const x=L+i*bw,ha=(H-Bt-4)*ca[i]/mx,hf=(H-Bt-4)*cf[i]/mx;const b0=inv(lo+(hi-lo)*i/B),b1=inv(lo+(hi-lo)*(i+1)/B);
+   const on=rg&&b0>=rg[0]-1e-9&&b1<=rg[1]+1e-9;
+   s+=`<g class="bin" data-m="${m.k}" data-b="${b0}~${b1}"><rect x="${x}" y="0" width="${bw}" height="${H-Bt}" fill="transparent"/><rect x="${x+.5}" y="${H-Bt-ha}" width="${bw-1}" height="${ha}" fill="var(--bar)"/><rect class="f" x="${x+.5}" y="${H-Bt-hf}" width="${bw-1}" height="${hf}" fill="var(--acc)" ${rg&&!on?'opacity=".35"':''}/></g>`}
+  for(const tk of niceTicks(lo,hi,m.log)){const y=m.log?Math.log10(tk+1):tk;const x=L+(hi>lo?(y-lo)/(hi-lo):0)*(W-2*L);s+=`<text x="${Math.max(12,Math.min(W-12,x))}" y="${H-5}" text-anchor="middle">${tickLabel(tk,m.log)}</text>`}
+  const md=med(fv);if(md!=null){const x=L+(hi>lo?(tr(md)-lo)/(hi-lo):0)*(W-2*L);s+=`<line x1="${x}" x2="${x}" y1="0" y2="${H-Bt}" stroke="var(--fg)" stroke-dasharray="3 3" opacity=".6"/>`}
+  h+=`<div class="box ch"><h4>${m.t} ${tipHTML(m.tip)}</h4><div class="m">${fv.length} repos · median ${nf(md)}${m.log?' · log scale':''}</div>${s}</svg></div>`}
+ $('#charts').innerHTML=h}
+const COLS=[['repo','Repo',r=>r.repo],['stars','Stars',r=>r.stars],['always_loaded','Always-loaded tokens',r=>r.always_loaded],['structure','Structure',r=>r.structure],
+ ['files','Files',r=>r.files],['paths_dead','Dead paths ⚠',r=>r.paths_dead],['cmds_dead','Dead cmds ⚠',r=>r.cmds_dead],['skills','Skills',r=>r.skills],['toolchain','Toolchain',r=>r.toolchain]];
+function renderTable(rows){const c=COLS.find(c=>c[0]===S.sort)||COLS[2];rows=[...rows].sort((a,b)=>{const x=c[2](a),y=c[2](b);const d=typeof x==='number'?x-y:String(x).localeCompare(String(y));return S.asc?d:-d});
+ $('#th').innerHTML='<tr>'+COLS.map(([k,t])=>`<th data-s="${k}" class="${S.sort===k?'on':''}">${t}${S.sort===k?(S.asc?' ↑':' ↓'):''}</th>`).join('')+'</tr>';
+ const shown=rows.slice(0,S.lim),mxT=Math.max(...base().map(r=>r.always_loaded),1);
+ $('#cnt').textContent=`· showing ${shown.length} of ${rows.length}`;
+ $('#tb').innerHTML=shown.map(r=>{const w=Math.max(2,Math.round(100*Math.log10(r.always_loaded+1)/Math.log10(mxT+1)));
+  const files=r.names.map(n=>`<a href="${gh(r,n)}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()" class="b acc">${n.replace('.md','')}</a>`).join('');
+  return `<tr class="r ${S.open===r.repo?'sel':''}" data-o="${esc(r.repo)}"><td class="repo">${esc(r.repo)}${r.dev?' <span class="b warn">dev</span>':''}<small>${r.license}</small></td><td>${nf(r.stars)}</td>
+  <td><div class="bar"><i style="width:${w}px"></i><span>${nf(r.always_loaded)}</span></div></td><td><span class="b">${r.structure}</span></td><td>${files}</td>
+  <td>${r.paths_dead?`<span class="b bad">${r.paths_dead}</span>`:'<span class="sub">0</span>'}${r.unknown?`<span class="b warn" title="unknown: truncated tree">${r.unknown}?</span>`:''}</td>
+  <td>${r.cmds_dead?`<span class="b bad">${r.cmds_dead}</span>`:'<span class="sub">0</span>'}</td><td>${r.skills?`<span class="b good">${r.skills}</span>`:'<span class="sub">0</span>'}</td><td><span class="b">${esc(r.toolchain)}</span></td></tr>`}).join('')||`<tr><td colspan="9" class="none">No repos match these filters.<br><button class="lnk" id="r2">Reset filters</button></td></tr>`;
+ $('#more').innerHTML=rows.length>shown.length?`<button id="mb">Show ${Math.min(60,rows.length-shown.length)} more</button>`:''}
+function drawer(){const r=D.rows.find(x=>x.repo===S.open),d=$('#dr');if(!r){d.className='';d.innerHTML='';return}
+ const row=(k,v)=>`<div><span>${k}</span><b>${v}</b></div>`;
+ d.className='open';d.innerHTML=`<button class="x" id="cl">×</button><h2><a href="https://github.com/${r.repo}/tree/${r.sha}" target="_blank" rel="noopener noreferrer">${esc(r.repo)}</a></h2>
+ <div class="sub">★ ${nf(r.stars)} · ${esc(r.license)} · pushed ${esc(r.pushed)} · ${esc(r.toolchain)} ${r.dev?'· <span class="b warn">dev set</span>':''}</div>
+ <div style="margin-top:10px">${r.names.map(n=>`<a class="b acc" href="${gh(r,n)}" target="_blank" rel="noopener noreferrer">${n} ↗</a>`).join('')}</div>
+ <h3>Size & shape</h3><div class="grid2">${row('Always-loaded tokens',nf(r.always_loaded))}${row('File tokens',nf(r.tokens))}${row('On-demand tokens',nf(r.on_demand))}${row('Structure',r.structure)}${row('Lines',nf(r.lines))}${row('Headings',nf(r.headings))}${row('Code blocks',nf(r.code_blocks))}${row('Links',nf(r.links))}${row('@imports',nf(r.n_imports))}</div>
+ <h3>Style</h3><div class="grid2">${row('Shouting / 1K tok',nf(r.shout))}${row('Negation share',r.neg==null?'-':pct(r.neg))}${row('Imperative share',r.imp==null?'-':pct(r.imp))}</div>
+ <h3>Detector flags <span class="b warn">unvalidated</span></h3>
+ ${r.flagged.length?r.flagged.map(f=>`<div class="fl"><span class="b ${f.tier==='moved'?'bad':''}">${esc(f.type)} · ${esc(f.tier)}</span> <code>${esc(f.ref)}</code><div class="note">${esc(f.kind)} in ${esc(f.file)}</div></div>`).join(''):'<div class="note">Nothing flagged.</div>'}
+ ${r.unknown?`<div class="note">${r.unknown} reference(s) are <b>unknown</b>: this repo's git tree was truncated by GitHub, so absence can't be proven. Excluded from all counts.</div>`:''}
+ <div class="note">"moved" = target exists under another folder, extension or letter case (post-hoc tier). Checked: ${r.paths_checked} paths, ${r.cmds_checked} commands.</div>
+ <h3>Commands mentioned (${r.cmds.length})</h3><div>${r.cmds.slice(0,24).map(c=>`<span class="b">${esc(c)}</span>`).join('')||'<span class="note">none</span>'}</div>
+ <h3>Skills (${r.skills})</h3><div>${r.skill_names.slice(0,30).map(c=>`<span class="b good">${esc(c)}</span>`).join('')||'<span class="note">none</span>'}</div>
+ <h3>Ecosystem files</h3><div>${D.eco.map(e=>`<span class="b ${r.eco[e]?'acc':''}" style="${r.eco[e]?'':'opacity:.4'}">${e}</span>`).join('')}</div>
+ <h3>Read the files locally</h3><div class="note"><code>data/view/${esc(r.repo.replace('/','__'))}/</code> (run <code>neri view</code> first)</div>`}
+function render(){const rows=base().filter(r=>match(r,null,null));renderFacets();renderChips();renderCards(rows);renderCharts();renderTable(rows);drawer();save()}
+// ---- events ----
+document.addEventListener('change',e=>{const t=e.target;if(t.id==='dev'){S.dev=t.checked;render();return}
+ if(t.dataset.f){const s=S.f[t.dataset.f]||(S.f[t.dataset.f]=new Set());t.checked?s.add(t.dataset.v):s.delete(t.dataset.v);S.lim=60;render()}});
+document.addEventListener('click',e=>{const t=e.target;
+ const bin=t.closest('.bin');if(bin){const[a,b]=bin.dataset.b.split('~').map(Number),cur=S.rng[bin.dataset.m];if(cur&&Math.abs(cur[0]-a)<1e-9&&Math.abs(cur[1]-b)<1e-9)delete S.rng[bin.dataset.m];else S.rng[bin.dataset.m]=[a,b];S.lim=60;render();return}
+ const ch=t.closest('[data-chip]');if(ch){const id=ch.dataset.chip;if(id==='q'){S.q='';$('#q').value=''}else if(id.startsWith('r.'))delete S.rng[id.slice(2)];else{const[,k,...v]=id.split('.');S.f[k]?.delete(v.join('.'))}render();return}
+ const th=t.closest('th[data-s]');if(th){const k=th.dataset.s;S.asc=S.sort===k?!S.asc:false;S.sort=k;render();return}
+ const tr=t.closest('tr.r');if(tr){S.open=S.open===tr.dataset.o?null:tr.dataset.o;render();return}
+ if(t.id==='cl'){S.open=null;render()}if(t.id==='mb'){S.lim+=60;render()}
+ if(t.id==='reset'||t.id==='r2'){S.q='';S.f={};S.rng={};$('#q').value='';S.lim=60;render()}});
+$('#q').addEventListener('input',e=>{S.q=e.target.value.trim();S.lim=60;render()});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&S.open){S.open=null;render()}});
+$('#docs').innerHTML=Object.entries(D.docs).map(([k,v])=>`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('');
+load();$('#q').value=S.q;$('#dev').checked=S.dev;render();
+</script></body></html>

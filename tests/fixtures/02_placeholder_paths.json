@@ -1,0 +1,8 @@
+{
+ "kind": "paths",
+ "text": "Edit `<module>/main.py` and `src/{name}/index.ts`, also `path/to/...` and `$HOME/x.py`.\n",
+ "tree": [
+  "src/app.py"
+ ],
+ "expect_checked": 0
+}

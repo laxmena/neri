@@ -1,0 +1,15 @@
+panel,metric,group,value,ci_lo,ci_hi,n,low_n
+claude,skills (.claude/skills),Popular repos (10+ stars),0.19855061427265489,0.18232780705279,0.21572219384109506,2427,False
+claude,skills (.claude/skills),Small & personal repos (0–9 stars),0.15474317591138392,0.14900941470942133,0.15999021693739143,19662,False
+claude,settings / hooks (.claude/settings.json),Popular repos (10+ stars),0.12622560973298336,0.11118060878821986,0.14144372478630382,2427,False
+claude,settings / hooks (.claude/settings.json),Small & personal repos (0–9 stars),0.1294673952157091,0.12458229332639525,0.13401939871112192,19662,False
+claude,subagents (.claude/agents),Popular repos (10+ stars),0.05894475574064698,0.04929293900432991,0.06991309438631207,2427,False
+claude,subagents (.claude/agents),Small & personal repos (0–9 stars),0.0597960823554806,0.05636023390768606,0.06359293344407525,19662,False
+claude,slash commands (.claude/commands),Popular repos (10+ stars),0.04902672080764304,0.039877016345353976,0.05836322977076202,2427,False
+claude,slash commands (.claude/commands),Small & personal repos (0–9 stars),0.04557256445886368,0.04258900834008141,0.048619624055604556,19662,False
+cross,MCP (.mcp.json),Popular repos (10+ stars),0.03315934431467933,0.02742568338709232,0.03938980024452965,3754,False
+cross,MCP (.mcp.json),Small & personal repos (0–9 stars),0.029537257022082892,0.02775066848627826,0.03142559169209247,30008,False
+cross,Copilot instructions,Popular repos (10+ stars),0.05422765213395543,0.04582601256631183,0.0630884937325276,3754,False
+cross,Copilot instructions,Small & personal repos (0–9 stars),0.03560948025308724,0.03345782484715453,0.037640519239122726,30008,False
+cross,Cursor rules,Popular repos (10+ stars),0.03152569829029116,0.02640512956271862,0.03769328433735178,3754,False
+cross,Cursor rules,Small & personal repos (0–9 stars),0.026622499458084172,0.02462552609590705,0.028549626533684307,30008,False

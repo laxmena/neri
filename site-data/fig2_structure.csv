@@ -1,0 +1,13 @@
+group,structure,share
+Popular repos (10+ stars),single,0.7725755245027064
+Popular repos (10+ stars),nested,0.12079094002119703
+Popular repos (10+ stars),nested-only,0.09664823772212623
+Popular repos (10+ stars),imports,0.009985297753970454
+Small & personal repos (0–9 stars),single,0.8400558403556034
+Small & personal repos (0–9 stars),nested,0.0821880713317027
+Small & personal repos (0–9 stars),nested-only,0.06477573440511383
+Small & personal repos (0–9 stars),imports,0.012980353907580006
+All repos (weighted),single,0.83439135286002
+All repos (weighted),nested,0.0854285046969224
+All repos (weighted),nested-only,0.06745120197236305
+All repos (weighted),imports,0.012728940470694568

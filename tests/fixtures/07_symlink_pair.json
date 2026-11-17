@@ -1,0 +1,7 @@
+{
+ "kind": "drift",
+ "a": "# X\nuse tests\n",
+ "b": "# X\nuse tests\n",
+ "symlink": true,
+ "expect_kind": "symlink"
+}

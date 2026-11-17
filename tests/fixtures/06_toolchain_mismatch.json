@@ -1,0 +1,32 @@
+{
+ "kind": "toolchain",
+ "cases": [
+  {
+   "text": "Install with `npm install` and run `npm run dev`.\n",
+   "root": [
+    "package.json",
+    "pnpm-lock.yaml"
+   ],
+   "js": true,
+   "py": false
+  },
+  {
+   "text": "Use pnpm, not npm. Run `pnpm install`.\n",
+   "root": [
+    "package.json",
+    "pnpm-lock.yaml"
+   ],
+   "js": false,
+   "py": false
+  },
+  {
+   "text": "`pip install -r requirements.txt`\n",
+   "root": [
+    "pyproject.toml",
+    "uv.lock"
+   ],
+   "js": false,
+   "py": true
+  }
+ ]
+}

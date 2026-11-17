@@ -1,0 +1,33 @@
+[project]
+name = "neri-check"          # PyPI name; "neri" is taken
+version = "0.1.0"
+description = "Census and linter for CLAUDE.md / AGENTS.md agent instruction files"
+requires-python = ">=3.11"
+dependencies = [
+  "typer>=0.12",
+  "httpx>=0.27",
+  "polars>=1.0",
+  "pyarrow>=16",
+  "datasketch>=1.6",
+  "tiktoken>=0.7",
+  "matplotlib>=3.8",
+  "tenacity>=8.2",
+  "rich>=13",
+  "lingua-language-detector>=2.1.1",
+]
+
+[project.optional-dependencies]
+llm = ["anthropic>=0.40"]
+
+[project.scripts]
+neri = "neri.cli:app"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/neri"]

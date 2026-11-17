@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1205.44525pt" height="489.6pt" viewBox="0 0 1205.44525 489.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-16T21:29:26.530852</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 489.6 
+L 1205.44525 489.6 
+L 1205.44525 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 51.84 424.8 
+L 322.56 424.8 
+Q 331.2 424.8 331.2 416.16 
+L 331.2 116.64 
+Q 331.2 108 322.56 108 
+L 51.84 108 
+Q 43.2 108 43.2 116.64 
+L 43.2 416.16 
+Q 43.2 424.8 51.84 424.8 
+z
+" clip-path="url(#p074005e6ca)" style="fill: #fafaf7; stroke: #c9c9d1; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 61.2 174.24 
+L 313.2 174.24 
+L 313.2 158.4 
+L 61.2 158.4 
+z
+" clip-path="url(#p074005e6ca)" style="fill: #8b5cf6; opacity: 0.9"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 61.2 224.644966 
+L 313.2 224.644966 
+L 313.2 181.44 
+L 61.2 181.44 
+z
+" clip-path="url(#p074005e6ca)" style="fill: #5b3db8; opacity: 0.95"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 61.2 232.516163 
+L 313.2 232.516163 
+L 313.2 224.644966 
+L 61.2 224.644966 
+z
+" clip-path="url(#p074005e6ca)" style="fill: #8b5cf6; opacity: 0.95"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 61.2 414 
+L 313.2 414 
+L 313.2 232.516163 
+L 61.2 232.516163 
+z
+" clip-path="url(#p074005e6ca)" style="fill: #c9c9d1; opacity: 0.55"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 54 144 
+L 320.4 144 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #eeeef2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 72 187.92 
+L 194.76 187.92 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 72 199.44 
+L 220.268571 199.44 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 72 210.96 
+L 245.777143 210.96 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 72 238.996163 
+L 194.76 238.996163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 72 250.516163 
+L 220.268571 250.516163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 72 262.036163 
+L 245.777143 262.036163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 72 273.556163 
+L 271.285714 273.556163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 72 285.076163 
+L 207.514286 285.076163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 72 296.596163 
+L 233.022857 296.596163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 72 308.116163 
+L 258.531429 308.116163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 72 319.636163 
+L 194.76 319.636163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 72 331.156163 
+L 220.268571 331.156163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 72 342.676163 
+L 245.777143 342.676163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 72 354.196163 
+L 271.285714 354.196163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 72 365.716163 
+L 207.514286 365.716163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 72 377.236163 
+L 233.022857 377.236163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 72 388.756163 
+L 258.531429 388.756163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 72 400.276163 
+L 194.76 400.276163 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #ffffff; stroke-opacity: 0.55; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 324 166.32 
+L 381.6 129.6 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #c9c9d1; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 381.6 129.6 
+L 403.2 129.6 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #c9c9d1; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 324 203.042483 
+L 381.6 205.2 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #c9c9d1; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 381.6 205.2 
+L 403.2 205.2 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #c9c9d1; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 324 228.580564 
+L 381.6 284.4 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #c9c9d1; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 381.6 284.4 
+L 403.2 284.4 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #c9c9d1; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 324 323.258081 
+L 381.6 370.8 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #c9c9d1; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 381.6 370.8 
+L 403.2 370.8 
+" clip-path="url(#p074005e6ca)" style="fill: none; stroke: #c9c9d1; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #1a1a2e" x="28.8" y="54.525" transform="rotate(-0 28.8 54.525)">Anatomy of a typical CLAUDE.md</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #6b6b76" x="28.8" y="77.676" transform="rotate(-0 28.8 77.676)">The typical file loads about 1,379 tokens every session (median). Here is what the census measured inside the files.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'JetBrains Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #6b6b76" x="61.2" y="129.318047" transform="rotate(-0 61.2 129.318047)">CLAUDE.md</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'JetBrains Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #8b5cf6" x="410.4" y="128.656953" transform="rotate(-0 410.4 128.656953)">26%</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #6b6b76" x="410.4" y="146.79025" transform="rotate(-0 410.4 146.79025)">of files open with the stock /init sentence (text match)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'JetBrains Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #5b3db8" x="410.4" y="204.602773" transform="rotate(-0 410.4 204.602773)">43% of files · 17% of tokens</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #6b6b76" x="410.4" y="222.39025" transform="rotate(-0 410.4 222.39025)">have an overview-type section; the block above is drawn to the token share</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'JetBrains Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #8b5cf6" x="410.4" y="283.802773" transform="rotate(-0 410.4 283.802773)">18% of files · 3% of tokens</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #6b6b76" x="410.4" y="301.59025" transform="rotate(-0 410.4 301.59025)">paste a directory tree</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'JetBrains Mono', 'Menlo', 'DejaVu Sans Mono', monospace; text-anchor: start; fill: #6b6b76" x="410.4" y="369.857461" transform="rotate(-0 410.4 369.857461)">80% of tokens</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #6b6b76" x="410.4" y="387.99025" transform="rotate(-0 410.4 387.99025)">everything else: not classified by the census, shown as unclassified</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #6b6b76" x="410.4" y="425.43025" transform="rotate(-0 410.4 425.43025)">74% of files name a command we recognize (lower bound)</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #6b6b76" x="410.4" y="442.71025" transform="rotate(-0 410.4 442.71025)">Size: 25% of files load under 695 tokens; the top 10% load over 4,469</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.6px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #6b6b76" x="28.8" y="466.4882" transform="rotate(-0 28.8 466.4882)">neri census of public GitHub · Nov 2026 · n = 17,960 CLAUDE.md files · weighted; 'typical' = median size; token shares are pooled across files, so the card shows an average composition, not one file. Block heights follow them; line hints are decorative; no file text shown. Tokens counted with the o200k_base tokenizer, a proxy for Claude's own.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p074005e6ca">
+   <rect x="7.2" y="7.2" width="720" height="475.2"/>
+  </clipPath>
+ </defs>
+</svg>

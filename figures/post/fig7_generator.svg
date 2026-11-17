@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="678.489276pt" height="440.447pt" viewBox="0 0 678.489276 440.447" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-16T21:29:26.404622</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 440.447 
+L 678.489276 440.447 
+L 678.489276 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 223.2 346.552 
+L 655.2 346.552 
+L 655.2 130.336 
+L 223.2 130.336 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 223.2 346.552 
+L 223.2 130.336 
+" clip-path="url(#pccbcab55c2)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="223.2" y="360.524" transform="rotate(-0 223.2 360.524)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 314.725424 346.552 
+L 314.725424 130.336 
+" clip-path="url(#pccbcab55c2)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="314.725424" y="360.524" transform="rotate(-0 314.725424 360.524)">25%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 406.250847 346.552 
+L 406.250847 130.336 
+" clip-path="url(#pccbcab55c2)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="406.250847" y="360.524" transform="rotate(-0 406.250847 360.524)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 497.776271 346.552 
+L 497.776271 130.336 
+" clip-path="url(#pccbcab55c2)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="497.776271" y="360.524" transform="rotate(-0 497.776271 360.524)">75%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 589.301695 346.552 
+L 589.301695 130.336 
+" clip-path="url(#pccbcab55c2)" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="589.301695" y="360.524" transform="rotate(-0 589.301695 360.524)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #6b6b76" x="219.7" y="194.54" transform="rotate(-0 219.7 194.54)">Have an overview section</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12"/>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #6b6b76" x="219.7" y="292.82" transform="rotate(-0 219.7 292.82)">Share of their tokens in overview sections</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 223.2 153.9232 
+L 540.888207 153.9232 
+L 540.888207 187.3384 
+L 223.2 187.3384 
+z
+" clip-path="url(#pccbcab55c2)" style="fill: #8b5cf6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 223.2 191.2696 
+L 324.181475 191.2696 
+L 324.181475 224.6848 
+L 223.2 224.6848 
+z
+" clip-path="url(#pccbcab55c2)" style="fill: #9a9aa6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 223.2 252.2032 
+L 374.775469 252.2032 
+L 374.775469 285.6184 
+L 223.2 285.6184 
+z
+" clip-path="url(#pccbcab55c2)" style="fill: #8b5cf6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 223.2 289.5496 
+L 250.214267 289.5496 
+L 250.214267 322.9648 
+L 223.2 322.9648 
+z
+" clip-path="url(#pccbcab55c2)" style="fill: #9a9aa6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 536.730612 170.6308 
+L 545.059234 170.6308 
+" clip-path="url(#pccbcab55c2)" style="fill: none; stroke: #1a1a2e; stroke-opacity: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 321.289159 207.9772 
+L 327.200261 207.9772 
+" clip-path="url(#pccbcab55c2)" style="fill: none; stroke: #1a1a2e; stroke-opacity: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 368.991058 268.9108 
+L 380.467461 268.9108 
+" clip-path="url(#pccbcab55c2)" style="fill: none; stroke: #1a1a2e; stroke-opacity: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 248.389235 306.2572 
+L 252.127742 306.2572 
+" clip-path="url(#pccbcab55c2)" style="fill: none; stroke: #1a1a2e; stroke-opacity: 0.55; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 223.2 346.552 
+L 655.2 346.552 
+" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #8b5cf6" x="550.55076" y="174.6103" transform="rotate(-0 550.55076 174.6103)">87%  With the stock line</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #6b6b76" x="332.691786" y="211.85695" transform="rotate(-0 332.691786 211.85695)">28%  Without it</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #8b5cf6" x="385.958987" y="272.8903" transform="rotate(-0 385.958987 272.8903)">41%  With the stock line</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #6b6b76" x="257.619267" y="310.13695" transform="rotate(-0 257.619267 310.13695)">7%  Without it</text>
+   </g>
+  </g>
+  <g id="text_12">
+   <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #6b6b76" transform="translate(7.2 70.915875)">CLAUDE.md files, weighted; they also spend 41% of their tokens on overviews vs 7%. 26% contain "This file provides guidance to</text>
+   <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #6b6b76" transform="translate(7.2 86.071031)">Claude Code…" in their first ten non-empty lines. Bars: share; thin line: 95% interval</text>
+  </g>
+  <g id="text_13">
+   <text style="font-weight: 700; font-size: 16px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #1a1a2e" transform="translate(7.2 23.52)">Files with the stock /init line are far more likely to carry an</text>
+   <text style="font-weight: 700; font-size: 16px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #1a1a2e" transform="translate(7.2 48.56875)">overview: 87% vs 28%</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 8.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #6b6b76" transform="translate(7.2 414.678352)">A text match, not proof of who wrote the file. Tokens counted with the o200k_base tokenizer, a proxy for Claude's own.</text>
+   <text style="font-size: 8.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #6b6b76" transform="translate(7.2 428.533219)">neri census of public GitHub · Nov 2026 · n = 4,228 with the line, 13,447 without · weighted; 95% intervals</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pccbcab55c2">
+   <rect x="223.2" y="130.336" width="432" height="216.216"/>
+  </clipPath>
+ </defs>
+</svg>

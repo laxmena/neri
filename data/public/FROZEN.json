@@ -1,0 +1,41 @@
+{
+ "frozen_at": "2026-11-15 23:17:26",
+ "snapshot_date": "2026-11-15",
+ "seed": 20261115,
+ "enumeration_complete": true,
+ "n_candidates": 100395,
+ "n_repos": 89051,
+ "per_file_name": {
+  "AGENTS.md": 50309,
+  "CLAUDE.md": 50086
+ },
+ "filter": {
+  "file_names": [
+   "CLAUDE.md",
+   "AGENTS.md"
+  ],
+  "min_stars": 10,
+  "pushed_within_days": 180,
+  "min_bytes": 200,
+  "max_bytes": 102400,
+  "exclude_forks": true,
+  "exclude_archived": true
+ },
+ "enumerate": {
+  "candidate_target": 100000,
+  "per_page": 100,
+  "cap": 1000,
+  "split_fill": 0.6
+ },
+ "code_git_head": "742162cb5ebd90ca61ee134dd1d690b22cad1ff2",
+ "python": "3.14.2",
+ "polars": "2.1.0",
+ "sha256": {
+  "candidates-frozen.parquet": "b20e0cf795ff89a846f95f17b281beafa4a427ce59c0d6e56a2a9ccbd5cd86f7",
+  "buckets-frozen.parquet": "2d77801767dcae76c8e7a9d013fd30011417503e79ffdacb7fad2d6edec71409",
+  "repo-meta-snapshot.parquet": "cacbe7116c807418c050c2da1f7e303178256918af70b5a7ac23bef4b096c328"
+ },
+ "reproducible": "everything from these pointers on: split (sha256(owner/repo)%2), fetch at pinned shas (blob_sha verifies content), features, statistics (seeded), figures",
+ "not_reproducible": "the code-search enumeration itself (index drift, no deterministic order, rate limits); repo metadata values at snapshot time (hence the snapshot file); repos deleted or force-pushed since",
+ "note": "pointers only; no third-party file text is included"
+}

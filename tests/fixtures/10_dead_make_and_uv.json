@@ -1,0 +1,19 @@
+{
+ "kind": "cmds",
+ "text": "Use `make test` and `make deploy`. Then `uv run mytool` or `uv run pytest`.\n",
+ "tree": [
+  "Makefile",
+  "pyproject.toml"
+ ],
+ "manifests": {
+  "Makefile": ".PHONY: test build\ntest:\n\tpytest\nbuild:\n\techo b\n",
+  "pyproject.toml": "[project]\nname='x'\n[project.scripts]\nother = 'x:main'\n"
+ },
+ "expect_dead": [
+  "deploy",
+  "mytool"
+ ],
+ "expect_alive": [
+  "test"
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "kind": "paths",
+ "text": "Build output goes to `dist/bundle.js`.\nCreate `config/local.yaml` first.\nSee `lib/util.py`.\nKeep `coverage/index.html` out of git.\n",
+ "tree": [
+  "lib/other.py"
+ ],
+ "gitignore": "dist/\n",
+ "expect_dead": [
+  "lib/util.py"
+ ],
+ "expect_checked": 1
+}

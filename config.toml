@@ -1,0 +1,56 @@
+[snapshot]
+date = "2026-11-15"   # snapshot date (M0)
+seed = 20261115
+
+[filter]
+file_names = ["CLAUDE.md", "AGENTS.md"]
+min_stars = 10
+pushed_within_days = 180
+min_bytes = 200
+max_bytes = 102400
+exclude_forks = true
+exclude_archived = true
+
+[sample]
+target_repos = 10000
+star_strata = [[10, 99], [100, 999], [1000, 1000000000]]
+history_repos = 1500
+longtail_target = 2500     # long-tail stratum (stars 0-9): seeded simple random sample
+longtail_min_stars = 0
+longtail_max_stars = 9
+history_max_versions = 30
+
+[dedup]
+minhash_perm = 128
+near_dup_jaccard = 0.8
+cluster_min_size = 5
+
+[llm]
+model = "claude-haiku-5-5"
+validate_sections = 300
+agreement_threshold = 0.85
+budget_usd = 30
+
+[stats]
+bootstrap = 1000
+ci = 0.95
+
+[github]
+search_per_min = 9
+graphql_batch = 50   # 100 triggered repeated 502 timeouts; 50 is gentler
+
+[enumerate]
+# Design change 2026-11-15 (see JOURNAL): list all buckets by count only, shuffle once with snapshot.seed,
+# then page buckets in that fixed order until candidate_target files are stored. Raise the target and rerun to continue.
+candidate_target = 100000   # total across file names; split evenly (50K per name)
+per_page = 100
+cap = 1000          # code search returns at most 1,000 results per query
+split_fill = 0.6    # when splitting, aim for ~cap*split_fill results per child (fewer probes than bisection)
+
+[fetch]
+workers = 12
+api_per_sec = 1.2    # tree calls; core API limit is 5,000/hour (https://docs.github.com/en/rest/using-the-rest-api/rate-limits-for-the-rest-api)
+raw_per_sec = 12.0   # raw.githubusercontent.com does not count against the API limit; kept polite
+
+[post]
+scorecard_token_budget = 2000   # check 6 of the essentials scorecard: always-loaded tokens at most this (our choice, not a sourced norm)

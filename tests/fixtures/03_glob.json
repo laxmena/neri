@@ -1,0 +1,8 @@
+{
+ "kind": "paths",
+ "text": "Tests live in `tests/*.py` and `src/**/*.ts`; run `pytest tests/test_?.py`.\n",
+ "tree": [
+  "tests/test_a.py"
+ ],
+ "expect_checked": 0
+}

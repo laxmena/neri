@@ -1,0 +1,51 @@
+toolchain,command,share_weighted,n_repos,n_toolchain_repos
+npm / pnpm / yarn,npm:build,0.2549186211693306,3284,13222
+npm / pnpm / yarn,npm:dev,0.19470987372635032,2540,13222
+npm / pnpm / yarn,npm:test,0.18175124659361816,2402,13222
+npm / pnpm / yarn,npm:lint,0.14253730717426794,1886,13222
+npm / pnpm / yarn,npm:install,0.11315341694014572,1519,13222
+npm / pnpm / yarn,pnpm:build,0.09150209111542659,1363,13222
+npm / pnpm / yarn,pnpm:test,0.07255748991954712,1170,13222
+npm / pnpm / yarn,npm:typecheck,0.07228202044371283,951,13222
+npm / pnpm / yarn,pnpm:dev,0.07149525656512327,1073,13222
+npm / pnpm / yarn,pnpm:lint,0.06909274495635835,1075,13222
+"Python (uv, poetry, pip)",pytest,0.24705994296450506,1260,4935
+"Python (uv, poetry, pip)",pip:install,0.1654194271446933,838,4935
+"Python (uv, poetry, pip)",uv:sync,0.14293150543619518,726,4935
+"Python (uv, poetry, pip)",uv:pytest,0.14030919021258811,719,4935
+"Python (uv, poetry, pip)",uv:ruff,0.0892663945701352,451,4935
+"Python (uv, poetry, pip)",ruff:check,0.08495049359710893,443,4935
+"Python (uv, poetry, pip)",uv:python,0.0793750747960353,411,4935
+"Python (uv, poetry, pip)",ruff:format,0.049666266095377706,254,4935
+"Python (uv, poetry, pip)",make:test,0.04921783194197371,269,4935
+"Python (uv, poetry, pip)",git:push,0.04842870878792099,282,4935
+Rust (cargo),cargo:test,0.5814216264712047,815,1382
+Rust (cargo),cargo:clippy,0.44547071211966055,626,1382
+Rust (cargo),cargo:fmt,0.4362794294932675,604,1382
+Rust (cargo),cargo:build,0.3622737685900775,501,1382
+Rust (cargo),cargo:run,0.26942915787723803,382,1382
+Rust (cargo),cargo:check,0.15123023612103792,223,1382
+Rust (cargo),git:push,0.054569726658122146,88,1382
+Rust (cargo),cargo:install,0.05243513752938342,79,1382
+Rust (cargo),cargo:xtask,0.04614750011575349,77,1382
+Rust (cargo),git:diff,0.0445951781270661,70,1382
+Go,go:test,0.5315241570172428,607,1137
+Go,go:build,0.31999569500173675,370,1137
+Go,go:vet,0.2497611977190839,278,1137
+Go,make:test,0.2479469493539419,300,1137
+Go,gofmt,0.20074797717842863,232,1137
+Go,go:run,0.1803038825036551,205,1137
+Go,make:build,0.1691911059939536,217,1137
+Go,make:lint,0.1310207204237936,168,1137
+Go,golangci-lint,0.12578340176377176,154,1137
+Go,go:mod,0.10850369905988974,128,1137
+make / just only,make:test,0.2202016254797277,217,1039
+make / just only,make:(default),0.17461110980734063,174,1039
+make / just only,make:check,0.10924277134520514,117,1039
+make / just only,make:clean,0.09806728445550753,90,1039
+make / just only,make:lint,0.09240445007660189,110,1039
+make / just only,docker:compose,0.07331906347274425,76,1039
+make / just only,make:build,0.06987837588077381,67,1039
+make / just only,npm:build,0.06463459798398603,73,1039
+make / just only,just:(default),0.05307165507596389,52,1039
+make / just only,make:install,0.0521401718121659,59,1039

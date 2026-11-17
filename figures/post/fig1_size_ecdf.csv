@@ -1,0 +1,839 @@
+file,group,tokens,cumulative_weighted_share
+CLAUDE.md,Popular repos (10+ stars),42.0,0.0005833164584587276
+CLAUDE.md,Popular repos (10+ stars),51.0,0.0038377937438332037
+CLAUDE.md,Popular repos (10+ stars),55.0,0.007220684046557021
+CLAUDE.md,Popular repos (10+ stars),60.0,0.010877213543079602
+CLAUDE.md,Popular repos (10+ stars),64.0,0.014764563037101533
+CLAUDE.md,Popular repos (10+ stars),73.0,0.017507014178834296
+CLAUDE.md,Popular repos (10+ stars),80.0,0.02066666809969831
+CLAUDE.md,Popular repos (10+ stars),87.0,0.023787101437459306
+CLAUDE.md,Popular repos (10+ stars),92.0,0.027591263379318883
+CLAUDE.md,Popular repos (10+ stars),101.0,0.0306681811329679
+CLAUDE.md,Popular repos (10+ stars),106.0,0.03390340734406408
+CLAUDE.md,Popular repos (10+ stars),111.0,0.03642967013988387
+CLAUDE.md,Popular repos (10+ stars),122.0,0.04005197157430551
+CLAUDE.md,Popular repos (10+ stars),125.0,0.04332045742875292
+CLAUDE.md,Popular repos (10+ stars),127.0,0.04654586983779952
+CLAUDE.md,Popular repos (10+ stars),131.0,0.051314654318727566
+CLAUDE.md,Popular repos (10+ stars),139.0,0.054948285799614395
+CLAUDE.md,Popular repos (10+ stars),147.0,0.05843369991312218
+CLAUDE.md,Popular repos (10+ stars),157.0,0.06265722038974551
+CLAUDE.md,Popular repos (10+ stars),163.0,0.06701922337358551
+CLAUDE.md,Popular repos (10+ stars),176.0,0.07072573308046413
+CLAUDE.md,Popular repos (10+ stars),182.0,0.07528487621342488
+CLAUDE.md,Popular repos (10+ stars),198.0,0.07936244696932598
+CLAUDE.md,Popular repos (10+ stars),209.0,0.08258571058557033
+CLAUDE.md,Popular repos (10+ stars),221.0,0.08743131207151783
+CLAUDE.md,Popular repos (10+ stars),233.0,0.09119545474806343
+CLAUDE.md,Popular repos (10+ stars),243.0,0.09606911384847393
+CLAUDE.md,Popular repos (10+ stars),255.0,0.10092114497098201
+CLAUDE.md,Popular repos (10+ stars),272.0,0.10713643219498818
+CLAUDE.md,Popular repos (10+ stars),278.0,0.11244616449013829
+CLAUDE.md,Popular repos (10+ stars),288.0,0.1165463943862012
+CLAUDE.md,Popular repos (10+ stars),297.0,0.12137271211438719
+CLAUDE.md,Popular repos (10+ stars),307.0,0.12568528466326379
+CLAUDE.md,Popular repos (10+ stars),317.0,0.13098535816663323
+CLAUDE.md,Popular repos (10+ stars),327.0,0.1347830818743974
+CLAUDE.md,Popular repos (10+ stars),344.0,0.13915430772588683
+CLAUDE.md,Popular repos (10+ stars),355.0,0.14553953507278888
+CLAUDE.md,Popular repos (10+ stars),367.0,0.14962217265560632
+CLAUDE.md,Popular repos (10+ stars),385.0,0.1547723707179175
+CLAUDE.md,Popular repos (10+ stars),393.0,0.16092527302720494
+CLAUDE.md,Popular repos (10+ stars),411.0,0.1652119824621287
+CLAUDE.md,Popular repos (10+ stars),420.0,0.16968255750882946
+CLAUDE.md,Popular repos (10+ stars),431.0,0.17414250031291634
+CLAUDE.md,Popular repos (10+ stars),446.0,0.1785138727111454
+CLAUDE.md,Popular repos (10+ stars),468.0,0.1821338515402828
+CLAUDE.md,Popular repos (10+ stars),488.0,0.1853302141367319
+CLAUDE.md,Popular repos (10+ stars),516.0,0.189919656721978
+CLAUDE.md,Popular repos (10+ stars),530.0,0.1953966485513291
+CLAUDE.md,Popular repos (10+ stars),543.0,0.19942435001136027
+CLAUDE.md,Popular repos (10+ stars),566.0,0.2027713277340815
+CLAUDE.md,Popular repos (10+ stars),598.0,0.20708471502277542
+CLAUDE.md,Popular repos (10+ stars),610.0,0.21415283105269953
+CLAUDE.md,Popular repos (10+ stars),635.0,0.21731594395184511
+CLAUDE.md,Popular repos (10+ stars),658.0,0.22158171789617911
+CLAUDE.md,Popular repos (10+ stars),677.0,0.2253823724684436
+CLAUDE.md,Popular repos (10+ stars),692.0,0.22914125660345086
+CLAUDE.md,Popular repos (10+ stars),713.0,0.23216423893650565
+CLAUDE.md,Popular repos (10+ stars),726.0,0.23690080165905716
+CLAUDE.md,Popular repos (10+ stars),738.0,0.24311608888306324
+CLAUDE.md,Popular repos (10+ stars),760.0,0.24779565861812924
+CLAUDE.md,Popular repos (10+ stars),776.0,0.2529784597611737
+CLAUDE.md,Popular repos (10+ stars),793.0,0.25841245862826157
+CLAUDE.md,Popular repos (10+ stars),810.0,0.263513985827747
+CLAUDE.md,Popular repos (10+ stars),831.0,0.268162546831161
+CLAUDE.md,Popular repos (10+ stars),845.0,0.27293334982238143
+CLAUDE.md,Popular repos (10+ stars),867.0,0.27872222264342855
+CLAUDE.md,Popular repos (10+ stars),877.0,0.28530153935567504
+CLAUDE.md,Popular repos (10+ stars),900.0,0.2898017868825228
+CLAUDE.md,Popular repos (10+ stars),911.0,0.29499698576640987
+CLAUDE.md,Popular repos (10+ stars),924.0,0.2992074640491923
+CLAUDE.md,Popular repos (10+ stars),932.0,0.30492433999803065
+CLAUDE.md,Popular repos (10+ stars),942.0,0.3119924560279547
+CLAUDE.md,Popular repos (10+ stars),958.0,0.31735491444604286
+CLAUDE.md,Popular repos (10+ stars),973.0,0.32211800886071984
+CLAUDE.md,Popular repos (10+ stars),995.0,0.3266304084749684
+CLAUDE.md,Popular repos (10+ stars),1016.0,0.33215528817010037
+CLAUDE.md,Popular repos (10+ stars),1030.0,0.33879698979706546
+CLAUDE.md,Popular repos (10+ stars),1043.0,0.3450122770210716
+CLAUDE.md,Popular repos (10+ stars),1052.0,0.35080114984211874
+CLAUDE.md,Popular repos (10+ stars),1068.0,0.35546513756978504
+CLAUDE.md,Popular repos (10+ stars),1077.0,0.3625332535997091
+CLAUDE.md,Popular repos (10+ stars),1098.0,0.3670835218878381
+CLAUDE.md,Popular repos (10+ stars),1117.0,0.370929670307168
+CLAUDE.md,Popular repos (10+ stars),1125.0,0.37490733289411765
+CLAUDE.md,Popular repos (10+ stars),1151.0,0.3811226201181238
+CLAUDE.md,Popular repos (10+ stars),1167.0,0.3877643217450889
+CLAUDE.md,Popular repos (10+ stars),1180.0,0.3922226322714421
+CLAUDE.md,Popular repos (10+ stars),1204.0,0.39621027740785125
+CLAUDE.md,Popular repos (10+ stars),1219.0,0.4010688290888866
+CLAUDE.md,Popular repos (10+ stars),1235.0,0.40535813964812023
+CLAUDE.md,Popular repos (10+ stars),1246.0,0.4100080685906228
+CLAUDE.md,Popular repos (10+ stars),1262.0,0.4131943549524354
+CLAUDE.md,Popular repos (10+ stars),1279.0,0.4191799977275218
+CLAUDE.md,Popular repos (10+ stars),1290.0,0.42266158237453183
+CLAUDE.md,Popular repos (10+ stars),1297.0,0.42649348197776044
+CLAUDE.md,Popular repos (10+ stars),1315.0,0.43074218037132794
+CLAUDE.md,Popular repos (10+ stars),1341.0,0.43516685708685954
+CLAUDE.md,Popular repos (10+ stars),1355.0,0.44083096007846945
+CLAUDE.md,Popular repos (10+ stars),1370.0,0.44747266170543454
+CLAUDE.md,Popular repos (10+ stars),1385.0,0.45120950089552203
+CLAUDE.md,Popular repos (10+ stars),1399.0,0.4567732756195726
+CLAUDE.md,Popular repos (10+ stars),1413.0,0.4627900165396946
+CLAUDE.md,Popular repos (10+ stars),1421.0,0.46645790220652394
+CLAUDE.md,Popular repos (10+ stars),1442.0,0.4693799807361971
+CLAUDE.md,Popular repos (10+ stars),1458.0,0.47451734105728866
+CLAUDE.md,Popular repos (10+ stars),1477.0,0.48009864238877975
+CLAUDE.md,Popular repos (10+ stars),1504.0,0.4857738112092913
+CLAUDE.md,Popular repos (10+ stars),1533.0,0.4915626840303384
+CLAUDE.md,Popular repos (10+ stars),1544.0,0.4961783304485589
+CLAUDE.md,Popular repos (10+ stars),1554.0,0.5019048183548874
+CLAUDE.md,Popular repos (10+ stars),1573.0,0.506778477455298
+CLAUDE.md,Popular repos (10+ stars),1587.0,0.5110718635039816
+CLAUDE.md,Popular repos (10+ stars),1609.0,0.5163815957991319
+CLAUDE.md,Popular repos (10+ stars),1624.0,0.52181559466622
+CLAUDE.md,Popular repos (10+ stars),1641.0,0.5271943490555562
+CLAUDE.md,Popular repos (10+ stars),1655.0,0.5329832218766035
+CLAUDE.md,Popular repos (10+ stars),1682.0,0.53919850910061
+CLAUDE.md,Popular repos (10+ stars),1708.0,0.5440942411603844
+CLAUDE.md,Popular repos (10+ stars),1717.0,0.548640600425871
+CLAUDE.md,Popular repos (10+ stars),1727.0,0.5531361225202863
+CLAUDE.md,Popular repos (10+ stars),1740.0,0.5579192016620674
+CLAUDE.md,Popular repos (10+ stars),1753.0,0.5627374996637863
+CLAUDE.md,Popular repos (10+ stars),1761.0,0.5688910310749548
+CLAUDE.md,Popular repos (10+ stars),1778.0,0.575079070932027
+CLAUDE.md,Popular repos (10+ stars),1801.0,0.5808679437530744
+CLAUDE.md,Popular repos (10+ stars),1814.0,0.5863651296678466
+CLAUDE.md,Popular repos (10+ stars),1829.0,0.5923052074205536
+CLAUDE.md,Popular repos (10+ stars),1846.0,0.5974069571900242
+CLAUDE.md,Popular repos (10+ stars),1862.0,0.6019540877333185
+CLAUDE.md,Popular repos (10+ stars),1895.0,0.6081361522906585
+CLAUDE.md,Popular repos (10+ stars),1918.0,0.6139250251117059
+CLAUDE.md,Popular repos (10+ stars),1926.0,0.6181992521349741
+CLAUDE.md,Popular repos (10+ stars),1935.0,0.6226854204823972
+CLAUDE.md,Popular repos (10+ stars),1946.0,0.6284742933034445
+CLAUDE.md,Popular repos (10+ stars),1975.0,0.6330510334250423
+CLAUDE.md,Popular repos (10+ stars),2003.0,0.6375479914760007
+CLAUDE.md,Popular repos (10+ stars),2028.0,0.6416673181163963
+CLAUDE.md,Popular repos (10+ stars),2047.0,0.647065331675347
+CLAUDE.md,Popular repos (10+ stars),2071.0,0.6508902844680062
+CLAUDE.md,Popular repos (10+ stars),2104.0,0.6562469608966471
+CLAUDE.md,Popular repos (10+ stars),2140.0,0.6618535833850583
+CLAUDE.md,Popular repos (10+ stars),2172.0,0.6668784011510656
+CLAUDE.md,Popular repos (10+ stars),2252.0,0.670888334051964
+CLAUDE.md,Popular repos (10+ stars),2287.0,0.6754585722290081
+CLAUDE.md,Popular repos (10+ stars),2311.0,0.6803557996710773
+CLAUDE.md,Popular repos (10+ stars),2351.0,0.6827208492293285
+CLAUDE.md,Popular repos (10+ stars),2386.0,0.6873835578489956
+CLAUDE.md,Popular repos (10+ stars),2408.0,0.6910884539941723
+CLAUDE.md,Popular repos (10+ stars),2462.0,0.6966208525351566
+CLAUDE.md,Popular repos (10+ stars),2496.0,0.7023379902696376
+CLAUDE.md,Popular repos (10+ stars),2520.0,0.7067258730984287
+CLAUDE.md,Popular repos (10+ stars),2590.0,0.7105817477540661
+CLAUDE.md,Popular repos (10+ stars),2628.0,0.7135916399776968
+CLAUDE.md,Popular repos (10+ stars),2668.0,0.7166919471811373
+CLAUDE.md,Popular repos (10+ stars),2718.0,0.7208260836847146
+CLAUDE.md,Popular repos (10+ stars),2808.0,0.7262278023328902
+CLAUDE.md,Popular repos (10+ stars),2849.0,0.7306409689699317
+CLAUDE.md,Popular repos (10+ stars),2873.0,0.733721083661281
+CLAUDE.md,Popular repos (10+ stars),2949.0,0.7385465629906768
+CLAUDE.md,Popular repos (10+ stars),2982.0,0.7429202730661071
+CLAUDE.md,Popular repos (10+ stars),3019.0,0.7487091458871544
+CLAUDE.md,Popular repos (10+ stars),3056.0,0.7524179048974495
+CLAUDE.md,Popular repos (10+ stars),3075.0,0.7567746627305485
+CLAUDE.md,Popular repos (10+ stars),3102.0,0.7614440173870927
+CLAUDE.md,Popular repos (10+ stars),3154.0,0.765171512403405
+CLAUDE.md,Popular repos (10+ stars),3186.0,0.7683528059715437
+CLAUDE.md,Popular repos (10+ stars),3211.0,0.7735480048554308
+CLAUDE.md,Popular repos (10+ stars),3243.0,0.7788484641846792
+CLAUDE.md,Popular repos (10+ stars),3288.0,0.785265067714648
+CLAUDE.md,Popular repos (10+ stars),3331.0,0.7900358707058687
+CLAUDE.md,Popular repos (10+ stars),3360.0,0.7941749519419165
+CLAUDE.md,Popular repos (10+ stars),3383.0,0.7978086736060178
+CLAUDE.md,Popular repos (10+ stars),3439.0,0.8008536033304624
+CLAUDE.md,Popular repos (10+ stars),3499.0,0.8066587721227577
+CLAUDE.md,Popular repos (10+ stars),3542.0,0.8106323953885445
+CLAUDE.md,Popular repos (10+ stars),3565.0,0.8146746674909747
+CLAUDE.md,Popular repos (10+ stars),3584.0,0.820889954714981
+CLAUDE.md,Popular repos (10+ stars),3622.0,0.8265115680018273
+CLAUDE.md,Popular repos (10+ stars),3650.0,0.8298849784465764
+CLAUDE.md,Popular repos (10+ stars),3711.0,0.8361002656705828
+CLAUDE.md,Popular repos (10+ stars),3761.0,0.839295715462958
+CLAUDE.md,Popular repos (10+ stars),3812.0,0.8432182006933385
+CLAUDE.md,Popular repos (10+ stars),3901.0,0.8485068987901374
+CLAUDE.md,Popular repos (10+ stars),3970.0,0.8529949245310239
+CLAUDE.md,Popular repos (10+ stars),4049.0,0.8587837973520712
+CLAUDE.md,Popular repos (10+ stars),4113.0,0.8625795829476868
+CLAUDE.md,Popular repos (10+ stars),4143.0,0.8687324852569746
+CLAUDE.md,Popular repos (10+ stars),4216.0,0.8730462109792301
+CLAUDE.md,Popular repos (10+ stars),4267.0,0.8768828468141974
+CLAUDE.md,Popular repos (10+ stars),4329.0,0.8813750553270201
+CLAUDE.md,Popular repos (10+ stars),4469.0,0.8865503590009524
+CLAUDE.md,Popular repos (10+ stars),4577.0,0.8908187898791567
+CLAUDE.md,Popular repos (10+ stars),4660.0,0.8951714149854577
+CLAUDE.md,Popular repos (10+ stars),4808.0,0.8982445947321054
+CLAUDE.md,Popular repos (10+ stars),4946.0,0.9035815702258679
+CLAUDE.md,Popular repos (10+ stars),5051.0,0.9065519190044478
+CLAUDE.md,Popular repos (10+ stars),5156.0,0.9104818863440624
+CLAUDE.md,Popular repos (10+ stars),5324.0,0.9132859123851604
+CLAUDE.md,Popular repos (10+ stars),5547.0,0.915757155592093
+CLAUDE.md,Popular repos (10+ stars),5868.0,0.9179953519821068
+CLAUDE.md,Popular repos (10+ stars),6119.0,0.9217060020189711
+CLAUDE.md,Popular repos (10+ stars),6349.0,0.9252214957718601
+CLAUDE.md,Popular repos (10+ stars),6492.0,0.9294441922400141
+CLAUDE.md,Popular repos (10+ stars),6684.0,0.9320444432252918
+CLAUDE.md,Popular repos (10+ stars),7024.0,0.9357001249756155
+CLAUDE.md,Popular repos (10+ stars),7669.0,0.938230713214646
+CLAUDE.md,Popular repos (10+ stars),8041.0,0.9415447647150431
+CLAUDE.md,Popular repos (10+ stars),8555.0,0.9449356150956044
+CLAUDE.md,Popular repos (10+ stars),8753.0,0.9483683707747278
+CLAUDE.md,Popular repos (10+ stars),9437.0,0.9536795101069991
+CLAUDE.md,Popular repos (10+ stars),9979.0,0.9569282106617604
+CLAUDE.md,Popular repos (10+ stars),10441.0,0.9603294220217453
+CLAUDE.md,Popular repos (10+ stars),11151.0,0.9624555719067993
+CLAUDE.md,Popular repos (10+ stars),12057.0,0.9662557791781102
+CLAUDE.md,Popular repos (10+ stars),13973.0,0.9704596807032824
+CLAUDE.md,Popular repos (10+ stars),14699.0,0.9762485535243297
+CLAUDE.md,Popular repos (10+ stars),15078.0,0.9819750414306584
+CLAUDE.md,Popular repos (10+ stars),16733.0,0.9867843273075454
+CLAUDE.md,Popular repos (10+ stars),18115.0,0.9904986875543572
+CLAUDE.md,Popular repos (10+ stars),20547.0,0.9945919601513913
+CLAUDE.md,Popular repos (10+ stars),32512.0,1.0000000000000155
+CLAUDE.md,Small & personal repos (0–9 stars),28.0,5.163049501603565e-05
+CLAUDE.md,Small & personal repos (0–9 stars),52.0,0.003917510852618545
+CLAUDE.md,Small & personal repos (0–9 stars),59.0,0.007904235614236881
+CLAUDE.md,Small & personal repos (0–9 stars),67.0,0.011380691353037077
+CLAUDE.md,Small & personal repos (0–9 stars),73.0,0.015117896753847827
+CLAUDE.md,Small & personal repos (0–9 stars),80.0,0.01872651146289471
+CLAUDE.md,Small & personal repos (0–9 stars),90.0,0.02239547561919035
+CLAUDE.md,Small & personal repos (0–9 stars),98.0,0.026089575466483345
+CLAUDE.md,Small & personal repos (0–9 stars),108.0,0.03005956345198316
+CLAUDE.md,Small & personal repos (0–9 stars),114.0,0.034334903352959106
+CLAUDE.md,Small & personal repos (0–9 stars),121.0,0.039041651383048395
+CLAUDE.md,Small & personal repos (0–9 stars),127.0,0.043479277228748246
+CLAUDE.md,Small & personal repos (0–9 stars),136.0,0.047765063674985064
+CLAUDE.md,Small & personal repos (0–9 stars),145.0,0.05185711421622535
+CLAUDE.md,Small & personal repos (0–9 stars),152.0,0.05642476112044201
+CLAUDE.md,Small & personal repos (0–9 stars),164.0,0.06090965381055763
+CLAUDE.md,Small & personal repos (0–9 stars),172.0,0.06523329057883064
+CLAUDE.md,Small & personal repos (0–9 stars),182.0,0.06962859601957033
+CLAUDE.md,Small & personal repos (0–9 stars),194.0,0.07447483580600829
+CLAUDE.md,Small & personal repos (0–9 stars),202.0,0.07910615043109966
+CLAUDE.md,Small & personal repos (0–9 stars),210.0,0.08401804560283985
+CLAUDE.md,Small & personal repos (0–9 stars),224.0,0.08846633163533403
+CLAUDE.md,Small & personal repos (0–9 stars),232.0,0.09304176812177595
+CLAUDE.md,Small & personal repos (0–9 stars),243.0,0.0977014632208479
+CLAUDE.md,Small & personal repos (0–9 stars),252.0,0.10259986969498636
+CLAUDE.md,Small & personal repos (0–9 stars),262.0,0.10769134684572067
+CLAUDE.md,Small & personal repos (0–9 stars),273.0,0.11262319648240357
+CLAUDE.md,Small & personal repos (0–9 stars),283.0,0.11720248157713069
+CLAUDE.md,Small & personal repos (0–9 stars),292.0,0.12239957414936718
+CLAUDE.md,Small & personal repos (0–9 stars),306.0,0.12709286315938245
+CLAUDE.md,Small & personal repos (0–9 stars),318.0,0.13174166781890315
+CLAUDE.md,Small & personal repos (0–9 stars),330.0,0.13650518096730233
+CLAUDE.md,Small & personal repos (0–9 stars),346.0,0.1410170887046685
+CLAUDE.md,Small & personal repos (0–9 stars),361.0,0.14598209921965027
+CLAUDE.md,Small & personal repos (0–9 stars),374.0,0.150773420430413
+CLAUDE.md,Small & personal repos (0–9 stars),386.0,0.15611618636272886
+CLAUDE.md,Small & personal repos (0–9 stars),394.0,0.16145486035777815
+CLAUDE.md,Small & personal repos (0–9 stars),405.0,0.1666024766768518
+CLAUDE.md,Small & personal repos (0–9 stars),421.0,0.1718684524750667
+CLAUDE.md,Small & personal repos (0–9 stars),434.0,0.1767992986645033
+CLAUDE.md,Small & personal repos (0–9 stars),447.0,0.181334275599358
+CLAUDE.md,Small & personal repos (0–9 stars),464.0,0.18602430285665855
+CLAUDE.md,Small & personal repos (0–9 stars),481.0,0.1906494646900714
+CLAUDE.md,Small & personal repos (0–9 stars),495.0,0.19559559221590644
+CLAUDE.md,Small & personal repos (0–9 stars),508.0,0.20020790272016645
+CLAUDE.md,Small & personal repos (0–9 stars),523.0,0.20516461669545943
+CLAUDE.md,Small & personal repos (0–9 stars),538.0,0.21012499325518932
+CLAUDE.md,Small & personal repos (0–9 stars),556.0,0.2150375931765768
+CLAUDE.md,Small & personal repos (0–9 stars),576.0,0.21967259751311896
+CLAUDE.md,Small & personal repos (0–9 stars),592.0,0.2251738057924034
+CLAUDE.md,Small & personal repos (0–9 stars),610.0,0.23040898169176524
+CLAUDE.md,Small & personal repos (0–9 stars),626.0,0.23565720902479959
+CLAUDE.md,Small & personal repos (0–9 stars),645.0,0.24027825359592578
+CLAUDE.md,Small & personal repos (0–9 stars),665.0,0.24510908211058677
+CLAUDE.md,Small & personal repos (0–9 stars),686.0,0.24978558567474607
+CLAUDE.md,Small & personal repos (0–9 stars),704.0,0.2544080572242381
+CLAUDE.md,Small & personal repos (0–9 stars),721.0,0.2588527170768949
+CLAUDE.md,Small & personal repos (0–9 stars),741.0,0.2635520828352098
+CLAUDE.md,Small & personal repos (0–9 stars),759.0,0.26864945747723507
+CLAUDE.md,Small & personal repos (0–9 stars),774.0,0.27354353379067176
+CLAUDE.md,Small & personal repos (0–9 stars),787.0,0.2788114568894317
+CLAUDE.md,Small & personal repos (0–9 stars),804.0,0.2836953683586837
+CLAUDE.md,Small & personal repos (0–9 stars),816.0,0.288528851913148
+CLAUDE.md,Small & personal repos (0–9 stars),825.0,0.29357426896021055
+CLAUDE.md,Small & personal repos (0–9 stars),837.0,0.29875165552870864
+CLAUDE.md,Small & personal repos (0–9 stars),847.0,0.3039414320538784
+CLAUDE.md,Small & personal repos (0–9 stars),860.0,0.3096196127423712
+CLAUDE.md,Small & personal repos (0–9 stars),872.0,0.3147965286290629
+CLAUDE.md,Small & personal repos (0–9 stars),883.0,0.3202720319791734
+CLAUDE.md,Small & personal repos (0–9 stars),892.0,0.32547303512800163
+CLAUDE.md,Small & personal repos (0–9 stars),902.0,0.3305658168458714
+CLAUDE.md,Small & personal repos (0–9 stars),910.0,0.3359590149562514
+CLAUDE.md,Small & personal repos (0–9 stars),921.0,0.3408224667965667
+CLAUDE.md,Small & personal repos (0–9 stars),932.0,0.34616145575319557
+CLAUDE.md,Small & personal repos (0–9 stars),942.0,0.35147214209528355
+CLAUDE.md,Small & personal repos (0–9 stars),949.0,0.35714669474518795
+CLAUDE.md,Small & personal repos (0–9 stars),959.0,0.36255428801658635
+CLAUDE.md,Small & personal repos (0–9 stars),969.0,0.3678895202845882
+CLAUDE.md,Small & personal repos (0–9 stars),980.0,0.3731980642511261
+CLAUDE.md,Small & personal repos (0–9 stars),991.0,0.3784121695492164
+CLAUDE.md,Small & personal repos (0–9 stars),1003.0,0.38406213889999014
+CLAUDE.md,Small & personal repos (0–9 stars),1015.0,0.3892093793140732
+CLAUDE.md,Small & personal repos (0–9 stars),1026.0,0.39486791343586536
+CLAUDE.md,Small & personal repos (0–9 stars),1040.0,0.40041270423876413
+CLAUDE.md,Small & personal repos (0–9 stars),1052.0,0.40535891382906275
+CLAUDE.md,Small & personal repos (0–9 stars),1068.0,0.410819934533713
+CLAUDE.md,Small & personal repos (0–9 stars),1080.0,0.41611529105282086
+CLAUDE.md,Small & personal repos (0–9 stars),1099.0,0.4216795769026723
+CLAUDE.md,Small & personal repos (0–9 stars),1115.0,0.4268182091608248
+CLAUDE.md,Small & personal repos (0–9 stars),1131.0,0.4318237053425948
+CLAUDE.md,Small & personal repos (0–9 stars),1150.0,0.4374311931492711
+CLAUDE.md,Small & personal repos (0–9 stars),1165.0,0.44261108408426525
+CLAUDE.md,Small & personal repos (0–9 stars),1178.0,0.4480121134557981
+CLAUDE.md,Small & personal repos (0–9 stars),1192.0,0.45331354457460143
+CLAUDE.md,Small & personal repos (0–9 stars),1206.0,0.4582411775775721
+CLAUDE.md,Small & personal repos (0–9 stars),1220.0,0.462835731842252
+CLAUDE.md,Small & personal repos (0–9 stars),1240.0,0.4681085278349979
+CLAUDE.md,Small & personal repos (0–9 stars),1256.0,0.4728023228889189
+CLAUDE.md,Small & personal repos (0–9 stars),1275.0,0.478052974667112
+CLAUDE.md,Small & personal repos (0–9 stars),1295.0,0.4834192807001724
+CLAUDE.md,Small & personal repos (0–9 stars),1313.0,0.4884099040261249
+CLAUDE.md,Small & personal repos (0–9 stars),1335.0,0.4933213002362225
+CLAUDE.md,Small & personal repos (0–9 stars),1354.0,0.49840753097389606
+CLAUDE.md,Small & personal repos (0–9 stars),1373.0,0.5032484496596977
+CLAUDE.md,Small & personal repos (0–9 stars),1393.0,0.5084311274403475
+CLAUDE.md,Small & personal repos (0–9 stars),1412.0,0.5133037372726816
+CLAUDE.md,Small & personal repos (0–9 stars),1432.0,0.5185876649583687
+CLAUDE.md,Small & personal repos (0–9 stars),1449.0,0.523492525677099
+CLAUDE.md,Small & personal repos (0–9 stars),1468.0,0.5285042010473008
+CLAUDE.md,Small & personal repos (0–9 stars),1486.0,0.533720949058211
+CLAUDE.md,Small & personal repos (0–9 stars),1501.0,0.5390380742446746
+CLAUDE.md,Small & personal repos (0–9 stars),1522.0,0.5442493390256214
+CLAUDE.md,Small & personal repos (0–9 stars),1541.0,0.5498093787593215
+CLAUDE.md,Small & personal repos (0–9 stars),1556.0,0.5553068477080924
+CLAUDE.md,Small & personal repos (0–9 stars),1572.0,0.560862892317546
+CLAUDE.md,Small & personal repos (0–9 stars),1587.0,0.5661239238045006
+CLAUDE.md,Small & personal repos (0–9 stars),1605.0,0.5711809704808678
+CLAUDE.md,Small & personal repos (0–9 stars),1621.0,0.5765283775761616
+CLAUDE.md,Small & personal repos (0–9 stars),1635.0,0.5817825497889623
+CLAUDE.md,Small & personal repos (0–9 stars),1651.0,0.5870969198405376
+CLAUDE.md,Small & personal repos (0–9 stars),1669.0,0.5923365046863777
+CLAUDE.md,Small & personal repos (0–9 stars),1683.0,0.5978538105944508
+CLAUDE.md,Small & personal repos (0–9 stars),1700.0,0.6031424116467275
+CLAUDE.md,Small & personal repos (0–9 stars),1717.0,0.6086461421794498
+CLAUDE.md,Small & personal repos (0–9 stars),1732.0,0.6144642929389618
+CLAUDE.md,Small & personal repos (0–9 stars),1747.0,0.6200605347207782
+CLAUDE.md,Small & personal repos (0–9 stars),1762.0,0.6256000568622769
+CLAUDE.md,Small & personal repos (0–9 stars),1780.0,0.6311875635499384
+CLAUDE.md,Small & personal repos (0–9 stars),1796.0,0.6369441286065625
+CLAUDE.md,Small & personal repos (0–9 stars),1811.0,0.6423598614484455
+CLAUDE.md,Small & personal repos (0–9 stars),1826.0,0.6469242648298297
+CLAUDE.md,Small & personal repos (0–9 stars),1841.0,0.6524297477296842
+CLAUDE.md,Small & personal repos (0–9 stars),1859.0,0.6579153716198345
+CLAUDE.md,Small & personal repos (0–9 stars),1876.0,0.6634411888335067
+CLAUDE.md,Small & personal repos (0–9 stars),1894.0,0.6686751255710902
+CLAUDE.md,Small & personal repos (0–9 stars),1908.0,0.6740664602056393
+CLAUDE.md,Small & personal repos (0–9 stars),1930.0,0.6796634406901924
+CLAUDE.md,Small & personal repos (0–9 stars),1949.0,0.6849582495910185
+CLAUDE.md,Small & personal repos (0–9 stars),1971.0,0.6904129450906986
+CLAUDE.md,Small & personal repos (0–9 stars),1994.0,0.6958263068588135
+CLAUDE.md,Small & personal repos (0–9 stars),2019.0,0.7011606650813439
+CLAUDE.md,Small & personal repos (0–9 stars),2042.0,0.7067070961103539
+CLAUDE.md,Small & personal repos (0–9 stars),2071.0,0.7116779644967001
+CLAUDE.md,Small & personal repos (0–9 stars),2099.0,0.7164721500258681
+CLAUDE.md,Small & personal repos (0–9 stars),2127.0,0.7216958153239421
+CLAUDE.md,Small & personal repos (0–9 stars),2169.0,0.7265659410244101
+CLAUDE.md,Small & personal repos (0–9 stars),2208.0,0.7311428846665856
+CLAUDE.md,Small & personal repos (0–9 stars),2251.0,0.736005235922749
+CLAUDE.md,Small & personal repos (0–9 stars),2296.0,0.7404867553751188
+CLAUDE.md,Small & personal repos (0–9 stars),2344.0,0.7453005338126919
+CLAUDE.md,Small & personal repos (0–9 stars),2389.0,0.749895068574396
+CLAUDE.md,Small & personal repos (0–9 stars),2428.0,0.754264701884251
+CLAUDE.md,Small & personal repos (0–9 stars),2487.0,0.7590434351731922
+CLAUDE.md,Small & personal repos (0–9 stars),2541.0,0.7637575099105925
+CLAUDE.md,Small & personal repos (0–9 stars),2594.0,0.7685859437168227
+CLAUDE.md,Small & personal repos (0–9 stars),2669.0,0.7726042798288669
+CLAUDE.md,Small & personal repos (0–9 stars),2757.0,0.7769372666654847
+CLAUDE.md,Small & personal repos (0–9 stars),2836.0,0.7810853629713307
+CLAUDE.md,Small & personal repos (0–9 stars),2906.0,0.785679027208902
+CLAUDE.md,Small & personal repos (0–9 stars),2975.0,0.7898977629097549
+CLAUDE.md,Small & personal repos (0–9 stars),3036.0,0.7949367346624275
+CLAUDE.md,Small & personal repos (0–9 stars),3099.0,0.7997935426865438
+CLAUDE.md,Small & personal repos (0–9 stars),3157.0,0.8052288256985043
+CLAUDE.md,Small & personal repos (0–9 stars),3205.0,0.8104206898874922
+CLAUDE.md,Small & personal repos (0–9 stars),3252.0,0.8155919247785625
+CLAUDE.md,Small & personal repos (0–9 stars),3307.0,0.8211756985684541
+CLAUDE.md,Small & personal repos (0–9 stars),3362.0,0.8262262851090735
+CLAUDE.md,Small & personal repos (0–9 stars),3418.0,0.8310178288451722
+CLAUDE.md,Small & personal repos (0–9 stars),3483.0,0.8361753797926386
+CLAUDE.md,Small & personal repos (0–9 stars),3554.0,0.8412972566806525
+CLAUDE.md,Small & personal repos (0–9 stars),3613.0,0.8460944795984137
+CLAUDE.md,Small & personal repos (0–9 stars),3672.0,0.851077144994726
+CLAUDE.md,Small & personal repos (0–9 stars),3730.0,0.8561961495635952
+CLAUDE.md,Small & personal repos (0–9 stars),3798.0,0.8612898565372314
+CLAUDE.md,Small & personal repos (0–9 stars),3878.0,0.866530211171462
+CLAUDE.md,Small & personal repos (0–9 stars),3949.0,0.8714035518614468
+CLAUDE.md,Small & personal repos (0–9 stars),4020.0,0.8766002582216953
+CLAUDE.md,Small & personal repos (0–9 stars),4097.0,0.8814924313295157
+CLAUDE.md,Small & personal repos (0–9 stars),4174.0,0.8870412627076758
+CLAUDE.md,Small & personal repos (0–9 stars),4267.0,0.8919578743369587
+CLAUDE.md,Small & personal repos (0–9 stars),4367.0,0.8970776686613328
+CLAUDE.md,Small & personal repos (0–9 stars),4484.0,0.9018782502497885
+CLAUDE.md,Small & personal repos (0–9 stars),4610.0,0.9065119317221205
+CLAUDE.md,Small & personal repos (0–9 stars),4772.0,0.9114755000276467
+CLAUDE.md,Small & personal repos (0–9 stars),4977.0,0.9159848139196413
+CLAUDE.md,Small & personal repos (0–9 stars),5179.0,0.9201120614360657
+CLAUDE.md,Small & personal repos (0–9 stars),5458.0,0.9248095918508993
+CLAUDE.md,Small & personal repos (0–9 stars),5830.0,0.9290074286525605
+CLAUDE.md,Small & personal repos (0–9 stars),6131.0,0.9335734054465452
+CLAUDE.md,Small & personal repos (0–9 stars),6457.0,0.9382415021917804
+CLAUDE.md,Small & personal repos (0–9 stars),6836.0,0.942766116700238
+CLAUDE.md,Small & personal repos (0–9 stars),7142.0,0.9473054197459532
+CLAUDE.md,Small & personal repos (0–9 stars),7702.0,0.9514123834684728
+CLAUDE.md,Small & personal repos (0–9 stars),8474.0,0.9560989614679252
+CLAUDE.md,Small & personal repos (0–9 stars),9248.0,0.9603029960211368
+CLAUDE.md,Small & personal repos (0–9 stars),10081.0,0.9649197684300226
+CLAUDE.md,Small & personal repos (0–9 stars),11343.0,0.9687538408897829
+CLAUDE.md,Small & personal repos (0–9 stars),13072.0,0.973068238720899
+CLAUDE.md,Small & personal repos (0–9 stars),14955.0,0.9779864705824447
+CLAUDE.md,Small & personal repos (0–9 stars),16335.0,0.9834270213161999
+CLAUDE.md,Small & personal repos (0–9 stars),18104.0,0.988527933603299
+CLAUDE.md,Small & personal repos (0–9 stars),21667.0,0.9937412343369678
+CLAUDE.md,Small & personal repos (0–9 stars),27305.0,0.9989273260116543
+AGENTS.md,Popular repos (10+ stars),43.0,0.0002907637811486328
+AGENTS.md,Popular repos (10+ stars),74.0,0.003805147409748795
+AGENTS.md,Popular repos (10+ stars),90.0,0.010322448867842804
+AGENTS.md,Popular repos (10+ stars),101.0,0.015260825183642428
+AGENTS.md,Popular repos (10+ stars),110.0,0.019351370303079925
+AGENTS.md,Popular repos (10+ stars),120.0,0.026038083223679353
+AGENTS.md,Popular repos (10+ stars),141.0,0.030821163387958185
+AGENTS.md,Popular repos (10+ stars),157.0,0.03354104018090899
+AGENTS.md,Popular repos (10+ stars),167.0,0.040018944476992994
+AGENTS.md,Popular repos (10+ stars),193.0,0.043666316681985125
+AGENTS.md,Popular repos (10+ stars),211.0,0.05017876697064508
+AGENTS.md,Popular repos (10+ stars),233.0,0.055003935496923236
+AGENTS.md,Popular repos (10+ stars),245.0,0.060255086290301
+AGENTS.md,Popular repos (10+ stars),257.0,0.0664463844237612
+AGENTS.md,Popular repos (10+ stars),278.0,0.07059978159134483
+AGENTS.md,Popular repos (10+ stars),288.0,0.07643874565655927
+AGENTS.md,Popular repos (10+ stars),301.0,0.08235422525784422
+AGENTS.md,Popular repos (10+ stars),307.0,0.08760635134399959
+AGENTS.md,Popular repos (10+ stars),315.0,0.09183521979191481
+AGENTS.md,Popular repos (10+ stars),322.0,0.0972070627549729
+AGENTS.md,Popular repos (10+ stars),329.0,0.10252344500777359
+AGENTS.md,Popular repos (10+ stars),339.0,0.10871079287379017
+AGENTS.md,Popular repos (10+ stars),354.0,0.11485629963710506
+AGENTS.md,Popular repos (10+ stars),364.0,0.11983489682948734
+AGENTS.md,Popular repos (10+ stars),375.0,0.12557427130070625
+AGENTS.md,Popular repos (10+ stars),385.0,0.13081185103267673
+AGENTS.md,Popular repos (10+ stars),391.0,0.13749856395327617
+AGENTS.md,Popular repos (10+ stars),402.0,0.1435271996580047
+AGENTS.md,Popular repos (10+ stars),422.0,0.1501893980986682
+AGENTS.md,Popular repos (10+ stars),431.0,0.156799190712929
+AGENTS.md,Popular repos (10+ stars),446.0,0.1630864792462915
+AGENTS.md,Popular repos (10+ stars),465.0,0.17001134277055566
+AGENTS.md,Popular repos (10+ stars),484.0,0.17526558195574862
+AGENTS.md,Popular repos (10+ stars),502.0,0.1798574606623774
+AGENTS.md,Popular repos (10+ stars),505.0,0.18552775214081463
+AGENTS.md,Popular repos (10+ stars),520.0,0.19104574553198683
+AGENTS.md,Popular repos (10+ stars),529.0,0.19687568315786527
+AGENTS.md,Popular repos (10+ stars),541.0,0.20136443710016327
+AGENTS.md,Popular repos (10+ stars),550.0,0.20667730803202994
+AGENTS.md,Popular repos (10+ stars),563.0,0.21183348048805462
+AGENTS.md,Popular repos (10+ stars),577.0,0.21740587365576836
+AGENTS.md,Popular repos (10+ stars),591.0,0.22461885855330296
+AGENTS.md,Popular repos (10+ stars),601.0,0.22916901160087844
+AGENTS.md,Popular repos (10+ stars),617.0,0.23634510288572277
+AGENTS.md,Popular repos (10+ stars),625.0,0.23934627009756404
+AGENTS.md,Popular repos (10+ stars),644.0,0.24577730672913442
+AGENTS.md,Popular repos (10+ stars),651.0,0.25068226686003947
+AGENTS.md,Popular repos (10+ stars),664.0,0.2554578114105055
+AGENTS.md,Popular repos (10+ stars),683.0,0.26060476483222195
+AGENTS.md,Popular repos (10+ stars),697.0,0.2664039178876782
+AGENTS.md,Popular repos (10+ stars),713.0,0.2713411625568098
+AGENTS.md,Popular repos (10+ stars),723.0,0.27647078670505393
+AGENTS.md,Popular repos (10+ stars),733.0,0.28065247158930706
+AGENTS.md,Popular repos (10+ stars),741.0,0.2864536791253859
+AGENTS.md,Popular repos (10+ stars),750.0,0.29090362360895633
+AGENTS.md,Popular repos (10+ stars),769.0,0.2965685719595257
+AGENTS.md,Popular repos (10+ stars),784.0,0.300261139414573
+AGENTS.md,Popular repos (10+ stars),800.0,0.3059944419682949
+AGENTS.md,Popular repos (10+ stars),812.0,0.3121066875154568
+AGENTS.md,Popular repos (10+ stars),824.0,0.3173438959208133
+AGENTS.md,Popular repos (10+ stars),836.0,0.32286847135593055
+AGENTS.md,Popular repos (10+ stars),849.0,0.32698605765253674
+AGENTS.md,Popular repos (10+ stars),866.0,0.3317785140731348
+AGENTS.md,Popular repos (10+ stars),886.0,0.3375350354256085
+AGENTS.md,Popular repos (10+ stars),896.0,0.3430918427855933
+AGENTS.md,Popular repos (10+ stars),907.0,0.34779027899590387
+AGENTS.md,Popular repos (10+ stars),925.0,0.35394940586073614
+AGENTS.md,Popular repos (10+ stars),947.0,0.35966320576940675
+AGENTS.md,Popular repos (10+ stars),956.0,0.36501277956601386
+AGENTS.md,Popular repos (10+ stars),973.0,0.3702960887764671
+AGENTS.md,Popular repos (10+ stars),987.0,0.3756412550965803
+AGENTS.md,Popular repos (10+ stars),1002.0,0.3804376478249081
+AGENTS.md,Popular repos (10+ stars),1021.0,0.38623664743117375
+AGENTS.md,Popular repos (10+ stars),1034.0,0.3901920780141572
+AGENTS.md,Popular repos (10+ stars),1042.0,0.39536910302047534
+AGENTS.md,Popular repos (10+ stars),1061.0,0.4003597704154352
+AGENTS.md,Popular repos (10+ stars),1073.0,0.40649702038320745
+AGENTS.md,Popular repos (10+ stars),1086.0,0.41173977252493976
+AGENTS.md,Popular repos (10+ stars),1100.0,0.4177498313866282
+AGENTS.md,Popular repos (10+ stars),1115.0,0.422504319333975
+AGENTS.md,Popular repos (10+ stars),1126.0,0.4276248788190342
+AGENTS.md,Popular repos (10+ stars),1145.0,0.4313670317289639
+AGENTS.md,Popular repos (10+ stars),1160.0,0.4355600910502248
+AGENTS.md,Popular repos (10+ stars),1165.0,0.4402973954245237
+AGENTS.md,Popular repos (10+ stars),1174.0,0.4454948762603698
+AGENTS.md,Popular repos (10+ stars),1185.0,0.4487353703339199
+AGENTS.md,Popular repos (10+ stars),1197.0,0.45278569521069917
+AGENTS.md,Popular repos (10+ stars),1218.0,0.4582427172131285
+AGENTS.md,Popular repos (10+ stars),1228.0,0.46440858594824347
+AGENTS.md,Popular repos (10+ stars),1244.0,0.4686276734813153
+AGENTS.md,Popular repos (10+ stars),1257.0,0.4748943767104673
+AGENTS.md,Popular repos (10+ stars),1266.0,0.4813062308718171
+AGENTS.md,Popular repos (10+ stars),1286.0,0.48668971032520275
+AGENTS.md,Popular repos (10+ stars),1298.0,0.4919786116929799
+AGENTS.md,Popular repos (10+ stars),1309.0,0.49719579905461664
+AGENTS.md,Popular repos (10+ stars),1320.0,0.5010789369951076
+AGENTS.md,Popular repos (10+ stars),1334.0,0.5058837598400643
+AGENTS.md,Popular repos (10+ stars),1341.0,0.5106051635474144
+AGENTS.md,Popular repos (10+ stars),1361.0,0.5169768055580102
+AGENTS.md,Popular repos (10+ stars),1378.0,0.5213847255253111
+AGENTS.md,Popular repos (10+ stars),1400.0,0.5263434337085405
+AGENTS.md,Popular repos (10+ stars),1421.0,0.5307486976128266
+AGENTS.md,Popular repos (10+ stars),1431.0,0.5350736277719658
+AGENTS.md,Popular repos (10+ stars),1456.0,0.5415262025993696
+AGENTS.md,Popular repos (10+ stars),1478.0,0.5472459364368188
+AGENTS.md,Popular repos (10+ stars),1502.0,0.5519615071807262
+AGENTS.md,Popular repos (10+ stars),1515.0,0.5560354390094006
+AGENTS.md,Popular repos (10+ stars),1529.0,0.5607609170501698
+AGENTS.md,Popular repos (10+ stars),1547.0,0.5651441246062157
+AGENTS.md,Popular repos (10+ stars),1567.0,0.5684780683606235
+AGENTS.md,Popular repos (10+ stars),1578.0,0.5730974765879968
+AGENTS.md,Popular repos (10+ stars),1590.0,0.5773358874239802
+AGENTS.md,Popular repos (10+ stars),1604.0,0.5810374732163199
+AGENTS.md,Popular repos (10+ stars),1618.0,0.5860298663474542
+AGENTS.md,Popular repos (10+ stars),1630.0,0.5911437009333544
+AGENTS.md,Popular repos (10+ stars),1643.0,0.5949832571074
+AGENTS.md,Popular repos (10+ stars),1667.0,0.6005336742440041
+AGENTS.md,Popular repos (10+ stars),1698.0,0.6047876121425682
+AGENTS.md,Popular repos (10+ stars),1719.0,0.6082569724960566
+AGENTS.md,Popular repos (10+ stars),1743.0,0.6133535040812009
+AGENTS.md,Popular repos (10+ stars),1778.0,0.6176161164356689
+AGENTS.md,Popular repos (10+ stars),1791.0,0.6215826453256159
+AGENTS.md,Popular repos (10+ stars),1817.0,0.6255575442946195
+AGENTS.md,Popular repos (10+ stars),1831.0,0.6304615111359494
+AGENTS.md,Popular repos (10+ stars),1854.0,0.6369454659045721
+AGENTS.md,Popular repos (10+ stars),1884.0,0.6415389846694313
+AGENTS.md,Popular repos (10+ stars),1906.0,0.6452769372893575
+AGENTS.md,Popular repos (10+ stars),1922.0,0.6509132173981296
+AGENTS.md,Popular repos (10+ stars),1953.0,0.6552472802809745
+AGENTS.md,Popular repos (10+ stars),1973.0,0.6609844378174298
+AGENTS.md,Popular repos (10+ stars),1985.0,0.6661570795389476
+AGENTS.md,Popular repos (10+ stars),2006.0,0.6702720792144036
+AGENTS.md,Popular repos (10+ stars),2026.0,0.6748580231320435
+AGENTS.md,Popular repos (10+ stars),2045.0,0.6798394143515247
+AGENTS.md,Popular repos (10+ stars),2070.0,0.683764886265439
+AGENTS.md,Popular repos (10+ stars),2102.0,0.6878185934862315
+AGENTS.md,Popular repos (10+ stars),2137.0,0.690324135883401
+AGENTS.md,Popular repos (10+ stars),2168.0,0.6939196876617814
+AGENTS.md,Popular repos (10+ stars),2205.0,0.697616874895889
+AGENTS.md,Popular repos (10+ stars),2232.0,0.7020227017364786
+AGENTS.md,Popular repos (10+ stars),2260.0,0.7062884516362576
+AGENTS.md,Popular repos (10+ stars),2291.0,0.7116884492002639
+AGENTS.md,Popular repos (10+ stars),2313.0,0.7151769854760069
+AGENTS.md,Popular repos (10+ stars),2345.0,0.7192717826134916
+AGENTS.md,Popular repos (10+ stars),2380.0,0.72260757942383
+AGENTS.md,Popular repos (10+ stars),2416.0,0.7271576841655102
+AGENTS.md,Popular repos (10+ stars),2441.0,0.7312543461141703
+AGENTS.md,Popular repos (10+ stars),2469.0,0.7359908257484473
+AGENTS.md,Popular repos (10+ stars),2501.0,0.7404489491443508
+AGENTS.md,Popular repos (10+ stars),2542.0,0.7434980954468177
+AGENTS.md,Popular repos (10+ stars),2578.0,0.7485423902168558
+AGENTS.md,Popular repos (10+ stars),2618.0,0.7533621903777473
+AGENTS.md,Popular repos (10+ stars),2648.0,0.7576806376533689
+AGENTS.md,Popular repos (10+ stars),2701.0,0.7615292124620239
+AGENTS.md,Popular repos (10+ stars),2734.0,0.7664021021400991
+AGENTS.md,Popular repos (10+ stars),2781.0,0.7717953420312391
+AGENTS.md,Popular repos (10+ stars),2820.0,0.7751207048097765
+AGENTS.md,Popular repos (10+ stars),2867.0,0.7802784791362608
+AGENTS.md,Popular repos (10+ stars),2897.0,0.7834645605406296
+AGENTS.md,Popular repos (10+ stars),2944.0,0.7889578492142557
+AGENTS.md,Popular repos (10+ stars),2968.0,0.7938216249206984
+AGENTS.md,Popular repos (10+ stars),2994.0,0.7993346008850702
+AGENTS.md,Popular repos (10+ stars),3030.0,0.8033911779835758
+AGENTS.md,Popular repos (10+ stars),3065.0,0.8071071282485143
+AGENTS.md,Popular repos (10+ stars),3101.0,0.8124468349581032
+AGENTS.md,Popular repos (10+ stars),3146.0,0.8163107422350856
+AGENTS.md,Popular repos (10+ stars),3195.0,0.8217388658857223
+AGENTS.md,Popular repos (10+ stars),3242.0,0.8267977535278266
+AGENTS.md,Popular repos (10+ stars),3294.0,0.8308165461041848
+AGENTS.md,Popular repos (10+ stars),3359.0,0.8359498005478577
+AGENTS.md,Popular repos (10+ stars),3396.0,0.8404473129590943
+AGENTS.md,Popular repos (10+ stars),3442.0,0.8447766344577515
+AGENTS.md,Popular repos (10+ stars),3484.0,0.8489318574232904
+AGENTS.md,Popular repos (10+ stars),3526.0,0.8536570701643492
+AGENTS.md,Popular repos (10+ stars),3557.0,0.8576019359874518
+AGENTS.md,Popular repos (10+ stars),3602.0,0.863172192180028
+AGENTS.md,Popular repos (10+ stars),3668.0,0.8685676104243367
+AGENTS.md,Popular repos (10+ stars),3746.0,0.8728649449140625
+AGENTS.md,Popular repos (10+ stars),3782.0,0.8776219538205614
+AGENTS.md,Popular repos (10+ stars),3871.0,0.8808129193387885
+AGENTS.md,Popular repos (10+ stars),3942.0,0.8855674650948829
+AGENTS.md,Popular repos (10+ stars),3990.0,0.8892465561229843
+AGENTS.md,Popular repos (10+ stars),4043.0,0.8940676712672101
+AGENTS.md,Popular repos (10+ stars),4175.0,0.896675930771357
+AGENTS.md,Popular repos (10+ stars),4271.0,0.900916160817749
+AGENTS.md,Popular repos (10+ stars),4394.0,0.9026283257369477
+AGENTS.md,Popular repos (10+ stars),4534.0,0.906481749897493
+AGENTS.md,Popular repos (10+ stars),4676.0,0.9102751297839582
+AGENTS.md,Popular repos (10+ stars),4846.0,0.9128123060082343
+AGENTS.md,Popular repos (10+ stars),5132.0,0.915066094059394
+AGENTS.md,Popular repos (10+ stars),5267.0,0.9169523045897682
+AGENTS.md,Popular repos (10+ stars),5427.0,0.9189400791703951
+AGENTS.md,Popular repos (10+ stars),5663.0,0.9213513246963814
+AGENTS.md,Popular repos (10+ stars),5909.0,0.9259498532350615
+AGENTS.md,Popular repos (10+ stars),6043.0,0.9305962194001811
+AGENTS.md,Popular repos (10+ stars),6209.0,0.9357668310946208
+AGENTS.md,Popular repos (10+ stars),6373.0,0.9379111783861728
+AGENTS.md,Popular repos (10+ stars),6597.0,0.9409582143761646
+AGENTS.md,Popular repos (10+ stars),6921.0,0.944471745221693
+AGENTS.md,Popular repos (10+ stars),7080.0,0.948254967083379
+AGENTS.md,Popular repos (10+ stars),7416.0,0.953110655669375
+AGENTS.md,Popular repos (10+ stars),7614.0,0.9562074186976757
+AGENTS.md,Popular repos (10+ stars),7797.0,0.9599501950946566
+AGENTS.md,Popular repos (10+ stars),8241.0,0.9634678262735906
+AGENTS.md,Popular repos (10+ stars),8653.0,0.9684394022919227
+AGENTS.md,Popular repos (10+ stars),9289.0,0.971912867445801
+AGENTS.md,Popular repos (10+ stars),9935.0,0.9773446581579545
+AGENTS.md,Popular repos (10+ stars),10654.0,0.9813526762383876
+AGENTS.md,Popular repos (10+ stars),11715.0,0.9838067120070612
+AGENTS.md,Popular repos (10+ stars),13278.0,0.9882420282465125
+AGENTS.md,Popular repos (10+ stars),15466.0,0.9914405121510975
+AGENTS.md,Popular repos (10+ stars),18448.0,0.995501934641519
+AGENTS.md,Popular repos (10+ stars),25531.0,0.9994786644489781
+AGENTS.md,Small & personal repos (0–9 stars),38.0,8.137481523272194e-05
+AGENTS.md,Small & personal repos (0–9 stars),70.0,0.005164419561998314
+AGENTS.md,Small & personal repos (0–9 stars),74.0,0.008550012148221547
+AGENTS.md,Small & personal repos (0–9 stars),78.0,0.012440593485359133
+AGENTS.md,Small & personal repos (0–9 stars),89.0,0.017824665269504672
+AGENTS.md,Small & personal repos (0–9 stars),97.0,0.023714706426914988
+AGENTS.md,Small & personal repos (0–9 stars),107.0,0.02903453422977448
+AGENTS.md,Small & personal repos (0–9 stars),116.0,0.03476871869127943
+AGENTS.md,Small & personal repos (0–9 stars),125.0,0.040167729857517355
+AGENTS.md,Small & personal repos (0–9 stars),135.0,0.04541258417856185
+AGENTS.md,Small & personal repos (0–9 stars),147.0,0.050773611958070855
+AGENTS.md,Small & personal repos (0–9 stars),154.0,0.0559202567721716
+AGENTS.md,Small & personal repos (0–9 stars),154.0,0.05931168365546145
+AGENTS.md,Small & personal repos (0–9 stars),164.0,0.06413062604969182
+AGENTS.md,Small & personal repos (0–9 stars),178.0,0.06949284434995005
+AGENTS.md,Small & personal repos (0–9 stars),190.0,0.07481779244840066
+AGENTS.md,Small & personal repos (0–9 stars),204.0,0.08023282862475217
+AGENTS.md,Small & personal repos (0–9 stars),220.0,0.08542327013794564
+AGENTS.md,Small & personal repos (0–9 stars),234.0,0.09079354524968826
+AGENTS.md,Small & personal repos (0–9 stars),246.0,0.09591383710853642
+AGENTS.md,Small & personal repos (0–9 stars),254.0,0.10182392782146371
+AGENTS.md,Small & personal repos (0–9 stars),257.0,0.10876622275856195
+AGENTS.md,Small & personal repos (0–9 stars),260.0,0.11552437295238811
+AGENTS.md,Small & personal repos (0–9 stars),264.0,0.12243939325355649
+AGENTS.md,Small & personal repos (0–9 stars),270.0,0.12877897121708715
+AGENTS.md,Small & personal repos (0–9 stars),278.0,0.13519255718831455
+AGENTS.md,Small & personal repos (0–9 stars),285.0,0.14113886396416353
+AGENTS.md,Small & personal repos (0–9 stars),293.0,0.14681318974291815
+AGENTS.md,Small & personal repos (0–9 stars),300.0,0.15185002881701
+AGENTS.md,Small & personal repos (0–9 stars),308.0,0.15755705581132026
+AGENTS.md,Small & personal repos (0–9 stars),315.0,0.16296178313680146
+AGENTS.md,Small & personal repos (0–9 stars),321.0,0.16843823659782717
+AGENTS.md,Small & personal repos (0–9 stars),327.0,0.1741195688062964
+AGENTS.md,Small & personal repos (0–9 stars),334.0,0.17942730766183093
+AGENTS.md,Small & personal repos (0–9 stars),340.0,0.1850169949837725
+AGENTS.md,Small & personal repos (0–9 stars),347.0,0.19105332186505783
+AGENTS.md,Small & personal repos (0–9 stars),354.0,0.19668545735813966
+AGENTS.md,Small & personal repos (0–9 stars),360.0,0.2020251965951409
+AGENTS.md,Small & personal repos (0–9 stars),367.0,0.2077210448478272
+AGENTS.md,Small & personal repos (0–9 stars),375.0,0.2133215919396698
+AGENTS.md,Small & personal repos (0–9 stars),383.0,0.21923657229060262
+AGENTS.md,Small & personal repos (0–9 stars),391.0,0.2254950200053113
+AGENTS.md,Small & personal repos (0–9 stars),399.0,0.23077054973758354
+AGENTS.md,Small & personal repos (0–9 stars),409.0,0.23635883020417364
+AGENTS.md,Small & personal repos (0–9 stars),418.0,0.2421845520399849
+AGENTS.md,Small & personal repos (0–9 stars),427.0,0.24766585047845416
+AGENTS.md,Small & personal repos (0–9 stars),436.0,0.25330601023031024
+AGENTS.md,Small & personal repos (0–9 stars),444.0,0.2585841398985034
+AGENTS.md,Small & personal repos (0–9 stars),452.0,0.2637332378019101
+AGENTS.md,Small & personal repos (0–9 stars),461.0,0.26929269944445405
+AGENTS.md,Small & personal repos (0–9 stars),473.0,0.27472786311987374
+AGENTS.md,Small & personal repos (0–9 stars),485.0,0.28076210440992977
+AGENTS.md,Small & personal repos (0–9 stars),495.0,0.28608644458025595
+AGENTS.md,Small & personal repos (0–9 stars),506.0,0.2914246453672272
+AGENTS.md,Small & personal repos (0–9 stars),517.0,0.29664165381017554
+AGENTS.md,Small & personal repos (0–9 stars),527.0,0.301715526601244
+AGENTS.md,Small & personal repos (0–9 stars),538.0,0.3071220830567452
+AGENTS.md,Small & personal repos (0–9 stars),547.0,0.31254447427302867
+AGENTS.md,Small & personal repos (0–9 stars),557.0,0.31813625876994417
+AGENTS.md,Small & personal repos (0–9 stars),565.0,0.3239129156369183
+AGENTS.md,Small & personal repos (0–9 stars),575.0,0.329437337210952
+AGENTS.md,Small & personal repos (0–9 stars),587.0,0.33507958306146407
+AGENTS.md,Small & personal repos (0–9 stars),599.0,0.339985709463487
+AGENTS.md,Small & personal repos (0–9 stars),608.0,0.345405523346337
+AGENTS.md,Small & personal repos (0–9 stars),620.0,0.35018014155692695
+AGENTS.md,Small & personal repos (0–9 stars),628.0,0.35573528861723935
+AGENTS.md,Small & personal repos (0–9 stars),640.0,0.3609750469229798
+AGENTS.md,Small & personal repos (0–9 stars),652.0,0.36553621937216
+AGENTS.md,Small & personal repos (0–9 stars),664.0,0.3706714573885332
+AGENTS.md,Small & personal repos (0–9 stars),676.0,0.37605455106923813
+AGENTS.md,Small & personal repos (0–9 stars),688.0,0.38119852742481647
+AGENTS.md,Small & personal repos (0–9 stars),701.0,0.3864810461897426
+AGENTS.md,Small & personal repos (0–9 stars),713.0,0.3914816349472535
+AGENTS.md,Small & personal repos (0–9 stars),725.0,0.3964962223508996
+AGENTS.md,Small & personal repos (0–9 stars),736.0,0.40143221572726423
+AGENTS.md,Small & personal repos (0–9 stars),747.0,0.4064650835913971
+AGENTS.md,Small & personal repos (0–9 stars),757.0,0.41144674131008463
+AGENTS.md,Small & personal repos (0–9 stars),768.0,0.4171111989303716
+AGENTS.md,Small & personal repos (0–9 stars),778.0,0.4226624893134145
+AGENTS.md,Small & personal repos (0–9 stars),788.0,0.42753466763564496
+AGENTS.md,Small & personal repos (0–9 stars),802.0,0.4329273342886742
+AGENTS.md,Small & personal repos (0–9 stars),813.0,0.4379957879921208
+AGENTS.md,Small & personal repos (0–9 stars),826.0,0.4432330482117833
+AGENTS.md,Small & personal repos (0–9 stars),836.0,0.44844287896844226
+AGENTS.md,Small & personal repos (0–9 stars),848.0,0.4534633152276207
+AGENTS.md,Small & personal repos (0–9 stars),862.0,0.4589682663701381
+AGENTS.md,Small & personal repos (0–9 stars),875.0,0.4645900976751745
+AGENTS.md,Small & personal repos (0–9 stars),887.0,0.4696927162724669
+AGENTS.md,Small & personal repos (0–9 stars),898.0,0.4745104719730642
+AGENTS.md,Small & personal repos (0–9 stars),910.0,0.4800794338135985
+AGENTS.md,Small & personal repos (0–9 stars),924.0,0.4851859001871384
+AGENTS.md,Small & personal repos (0–9 stars),939.0,0.4900974712768472
+AGENTS.md,Small & personal repos (0–9 stars),953.0,0.49506990885346636
+AGENTS.md,Small & personal repos (0–9 stars),963.0,0.4997276256932323
+AGENTS.md,Small & personal repos (0–9 stars),979.0,0.5045627562179572
+AGENTS.md,Small & personal repos (0–9 stars),994.0,0.5096956724178463
+AGENTS.md,Small & personal repos (0–9 stars),1009.0,0.5150517605640048
+AGENTS.md,Small & personal repos (0–9 stars),1024.0,0.5202762822583629
+AGENTS.md,Small & personal repos (0–9 stars),1044.0,0.5251915408031982
+AGENTS.md,Small & personal repos (0–9 stars),1061.0,0.5303180328338833
+AGENTS.md,Small & personal repos (0–9 stars),1078.0,0.5354217678896509
+AGENTS.md,Small & personal repos (0–9 stars),1092.0,0.5406865145316945
+AGENTS.md,Small & personal repos (0–9 stars),1112.0,0.5457718689945473
+AGENTS.md,Small & personal repos (0–9 stars),1126.0,0.5506209700916234
+AGENTS.md,Small & personal repos (0–9 stars),1141.0,0.5554870807650496
+AGENTS.md,Small & personal repos (0–9 stars),1159.0,0.5598438692727284
+AGENTS.md,Small & personal repos (0–9 stars),1172.0,0.5648431763952926
+AGENTS.md,Small & personal repos (0–9 stars),1187.0,0.5698176789160275
+AGENTS.md,Small & personal repos (0–9 stars),1202.0,0.5742220717803151
+AGENTS.md,Small & personal repos (0–9 stars),1218.0,0.578953927625275
+AGENTS.md,Small & personal repos (0–9 stars),1234.0,0.584086771948799
+AGENTS.md,Small & personal repos (0–9 stars),1249.0,0.5888901769355621
+AGENTS.md,Small & personal repos (0–9 stars),1265.0,0.5935385903558424
+AGENTS.md,Small & personal repos (0–9 stars),1286.0,0.5987542699782953
+AGENTS.md,Small & personal repos (0–9 stars),1300.0,0.6040826383356868
+AGENTS.md,Small & personal repos (0–9 stars),1316.0,0.6090293198195892
+AGENTS.md,Small & personal repos (0–9 stars),1332.0,0.6138077663113926
+AGENTS.md,Small & personal repos (0–9 stars),1352.0,0.6192215637944976
+AGENTS.md,Small & personal repos (0–9 stars),1371.0,0.6242670828500858
+AGENTS.md,Small & personal repos (0–9 stars),1387.0,0.6293115715736433
+AGENTS.md,Small & personal repos (0–9 stars),1403.0,0.6342774251745034
+AGENTS.md,Small & personal repos (0–9 stars),1422.0,0.6390003332897308
+AGENTS.md,Small & personal repos (0–9 stars),1442.0,0.6441797025272943
+AGENTS.md,Small & personal repos (0–9 stars),1461.0,0.648693799153324
+AGENTS.md,Small & personal repos (0–9 stars),1487.0,0.6537416117705002
+AGENTS.md,Small & personal repos (0–9 stars),1512.0,0.658673569703652
+AGENTS.md,Small & personal repos (0–9 stars),1534.0,0.6638677803358132
+AGENTS.md,Small & personal repos (0–9 stars),1553.0,0.669108046014472
+AGENTS.md,Small & personal repos (0–9 stars),1579.0,0.6741299642084513
+AGENTS.md,Small & personal repos (0–9 stars),1600.0,0.6790105338446452
+AGENTS.md,Small & personal repos (0–9 stars),1621.0,0.6838469994255943
+AGENTS.md,Small & personal repos (0–9 stars),1647.0,0.6885018057792726
+AGENTS.md,Small & personal repos (0–9 stars),1672.0,0.6929711538875235
+AGENTS.md,Small & personal repos (0–9 stars),1701.0,0.6974906958042494
+AGENTS.md,Small & personal repos (0–9 stars),1730.0,0.7022699480437294
+AGENTS.md,Small & personal repos (0–9 stars),1758.0,0.7065326455948956
+AGENTS.md,Small & personal repos (0–9 stars),1794.0,0.7110013615973705
+AGENTS.md,Small & personal repos (0–9 stars),1819.0,0.7158754595171443
+AGENTS.md,Small & personal repos (0–9 stars),1849.0,0.7203086665696448
+AGENTS.md,Small & personal repos (0–9 stars),1873.0,0.7245221149601866
+AGENTS.md,Small & personal repos (0–9 stars),1899.0,0.729108626543635
+AGENTS.md,Small & personal repos (0–9 stars),1931.0,0.7335630916119941
+AGENTS.md,Small & personal repos (0–9 stars),1958.0,0.7377562960453916
+AGENTS.md,Small & personal repos (0–9 stars),1986.0,0.7424025581522101
+AGENTS.md,Small & personal repos (0–9 stars),2015.0,0.7473064649447044
+AGENTS.md,Small & personal repos (0–9 stars),2042.0,0.7521719388715961
+AGENTS.md,Small & personal repos (0–9 stars),2067.0,0.7566769863851074
+AGENTS.md,Small & personal repos (0–9 stars),2094.0,0.7617655467900168
+AGENTS.md,Small & personal repos (0–9 stars),2129.0,0.7662050740010522
+AGENTS.md,Small & personal repos (0–9 stars),2159.0,0.7707488972192527
+AGENTS.md,Small & personal repos (0–9 stars),2192.0,0.7756432120614826
+AGENTS.md,Small & personal repos (0–9 stars),2225.0,0.7801110778100929
+AGENTS.md,Small & personal repos (0–9 stars),2262.0,0.7842963325577794
+AGENTS.md,Small & personal repos (0–9 stars),2292.0,0.7890164738495825
+AGENTS.md,Small & personal repos (0–9 stars),2328.0,0.7935158478678295
+AGENTS.md,Small & personal repos (0–9 stars),2365.0,0.798579587044256
+AGENTS.md,Small & personal repos (0–9 stars),2405.0,0.8032953487306675
+AGENTS.md,Small & personal repos (0–9 stars),2444.0,0.8083930199929387
+AGENTS.md,Small & personal repos (0–9 stars),2483.0,0.8130444879048936
+AGENTS.md,Small & personal repos (0–9 stars),2526.0,0.8178805794918746
+AGENTS.md,Small & personal repos (0–9 stars),2561.0,0.822188859563917
+AGENTS.md,Small & personal repos (0–9 stars),2594.0,0.8266526050318386
+AGENTS.md,Small & personal repos (0–9 stars),2632.0,0.831786903497047
+AGENTS.md,Small & personal repos (0–9 stars),2672.0,0.8365419609881312
+AGENTS.md,Small & personal repos (0–9 stars),2717.0,0.8415370527678351
+AGENTS.md,Small & personal repos (0–9 stars),2765.0,0.8460024792953994
+AGENTS.md,Small & personal repos (0–9 stars),2817.0,0.8507421622112787
+AGENTS.md,Small & personal repos (0–9 stars),2874.0,0.8552923754054754
+AGENTS.md,Small & personal repos (0–9 stars),2928.0,0.8601363011696884
+AGENTS.md,Small & personal repos (0–9 stars),2979.0,0.8646262420238601
+AGENTS.md,Small & personal repos (0–9 stars),3020.0,0.8693422863409851
+AGENTS.md,Small & personal repos (0–9 stars),3065.0,0.8739022720808859
+AGENTS.md,Small & personal repos (0–9 stars),3108.0,0.8795996629877558
+AGENTS.md,Small & personal repos (0–9 stars),3172.0,0.8844502956222453
+AGENTS.md,Small & personal repos (0–9 stars),3231.0,0.8891149971727028
+AGENTS.md,Small & personal repos (0–9 stars),3287.0,0.8937723251029523
+AGENTS.md,Small & personal repos (0–9 stars),3354.0,0.8985816181832101
+AGENTS.md,Small & personal repos (0–9 stars),3420.0,0.9031371209356628
+AGENTS.md,Small & personal repos (0–9 stars),3487.0,0.9073771904245419
+AGENTS.md,Small & personal repos (0–9 stars),3576.0,0.9126747331052578
+AGENTS.md,Small & personal repos (0–9 stars),3641.0,0.9169872719334207
+AGENTS.md,Small & personal repos (0–9 stars),3727.0,0.9218699652554226
+AGENTS.md,Small & personal repos (0–9 stars),3807.0,0.9258764405083111
+AGENTS.md,Small & personal repos (0–9 stars),3919.0,0.9305772248112335
+AGENTS.md,Small & personal repos (0–9 stars),4039.0,0.9341376770874349
+AGENTS.md,Small & personal repos (0–9 stars),4190.0,0.9377883496957902
+AGENTS.md,Small & personal repos (0–9 stars),4380.0,0.9417848738949535
+AGENTS.md,Small & personal repos (0–9 stars),4647.0,0.9454682313976366
+AGENTS.md,Small & personal repos (0–9 stars),4959.0,0.9489212873038487
+AGENTS.md,Small & personal repos (0–9 stars),5426.0,0.9518343165993047
+AGENTS.md,Small & personal repos (0–9 stars),5810.0,0.9555667892175678
+AGENTS.md,Small & personal repos (0–9 stars),6142.0,0.9597080054305
+AGENTS.md,Small & personal repos (0–9 stars),6522.0,0.9637717126538119
+AGENTS.md,Small & personal repos (0–9 stars),6973.0,0.9681680954578058
+AGENTS.md,Small & personal repos (0–9 stars),7524.0,0.9720285245516915
+AGENTS.md,Small & personal repos (0–9 stars),8204.0,0.9759911158645014
+AGENTS.md,Small & personal repos (0–9 stars),9031.0,0.9800442569203481
+AGENTS.md,Small & personal repos (0–9 stars),10082.0,0.9841893286892724
+AGENTS.md,Small & personal repos (0–9 stars),11743.0,0.9884416729912974
+AGENTS.md,Small & personal repos (0–9 stars),13694.0,0.9931038100932056
+AGENTS.md,Small & personal repos (0–9 stars),18168.0,0.9973379443219264

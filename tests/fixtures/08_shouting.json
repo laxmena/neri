@@ -1,0 +1,9 @@
+{
+ "kind": "style",
+ "text": "# Rules\n- IMPORTANT: run tests\n- NEVER commit secrets\n- Don't edit generated files\n- Use `make test`\nTHIS LINE IS ALL CAPS AND LOUD\n",
+ "tokens": 1000,
+ "expect_shout_words": 2,
+ "expect_caps_lines": 1,
+ "expect_negation_share": 0.5,
+ "expect_imperative_share": 0.75
+}

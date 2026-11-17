@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="620.41046pt" height="367.007pt" viewBox="0 0 620.41046 367.007" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-16T21:29:25.355403</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 367.007 
+L 620.41046 367.007 
+L 620.41046 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 201.6 267.352 
+L 590.4 267.352 
+L 590.4 106.576 
+L 201.6 106.576 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="201.6" y="281.324" transform="rotate(-0 201.6 281.324)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="298.8" y="281.324" transform="rotate(-0 298.8 281.324)">25%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="396" y="281.324" transform="rotate(-0 396 281.324)">50%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="493.2" y="281.324" transform="rotate(-0 493.2 281.324)">75%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="590.4" y="281.324" transform="rotate(-0 590.4 281.324)">100%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #6b6b76" x="198.1" y="149.641647" transform="rotate(-0 198.1 149.641647)">Popular repos (10+ stars)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #6b6b76" x="198.1" y="196.928706" transform="rotate(-0 198.1 196.928706)">Small &amp; personal repos (0–9 stars)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: end; fill: #6b6b76" x="198.1" y="244.215765" transform="rotate(-0 198.1 244.215765)">All repos (weighted)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 201.6 132.111012 
+L 501.977364 132.111012 
+L 501.977364 156.700282 
+L 201.6 156.700282 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #8b5cf6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 501.977364 132.111012 
+L 548.940881 132.111012 
+L 548.940881 156.700282 
+L 501.977364 156.700282 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #9a9aa6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 548.940881 132.111012 
+L 586.517716 132.111012 
+L 586.517716 156.700282 
+L 548.940881 156.700282 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #c9c9d1; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 586.517716 132.111012 
+L 590.4 132.111012 
+L 590.4 156.700282 
+L 586.517716 156.700282 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #5b3db8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 201.6 184.599647 
+L 528.213711 184.599647 
+L 528.213711 198.785765 
+L 201.6 198.785765 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #8b5cf6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 528.213711 184.599647 
+L 560.168433 184.599647 
+L 560.168433 198.785765 
+L 528.213711 198.785765 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #9a9aa6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 560.168433 184.599647 
+L 585.353238 184.599647 
+L 585.353238 198.785765 
+L 560.168433 198.785765 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #c9c9d1; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 585.353238 184.599647 
+L 590.4 184.599647 
+L 590.4 198.785765 
+L 585.353238 198.785765 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #5b3db8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 201.6 231.886706 
+L 526.011358 231.886706 
+L 526.011358 246.072824 
+L 201.6 246.072824 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #8b5cf6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 526.011358 231.886706 
+L 559.225961 231.886706 
+L 559.225961 246.072824 
+L 526.011358 246.072824 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #9a9aa6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 559.225961 231.886706 
+L 585.450988 231.886706 
+L 585.450988 246.072824 
+L 559.225961 246.072824 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #c9c9d1; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 585.450988 231.886706 
+L 590.4 231.886706 
+L 590.4 246.072824 
+L 585.450988 246.072824 
+z
+" clip-path="url(#p3b8f5a47b7)" style="fill: #5b3db8; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 201.6 267.352 
+L 590.4 267.352 
+" style="fill: none; stroke: #eeeef2; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #ffffff" transform="translate(336.16583 141.305217)">single file</text>
+    <text style="font-size: 7.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #ffffff" transform="translate(343.869151 152.058811)">77%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #1a1a2e" transform="translate(514.06674 142.018303)">nested</text>
+    <text style="font-size: 7.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #1a1a2e" transform="translate(517.539591 152.058811)">12%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #1a1a2e" transform="translate(547.932814 141.282952)">nested-only</text>
+    <text style="font-size: 7.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #1a1a2e" transform="translate(559.809768 152.058811)">10%</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 588.458858 132.31248 
+Q 588.458858 133.813978 588.458858 135.315475 
+" style="fill: none; stroke: #6b6b76; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="588.458858" y="126.502088" transform="rotate(-0 588.458858 126.502088)">&lt;1% imports</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #ffffff" x="364.906855" y="194.847628" transform="rotate(-0 364.906855 194.847628)">84%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #1a1a2e" x="544.191072" y="194.847628" transform="rotate(-0 544.191072 194.847628)">8%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #1a1a2e" x="572.760836" y="194.847628" transform="rotate(-0 572.760836 194.847628)">6%</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 587.876619 179.599539 
+Q 587.876619 181.101036 587.876619 182.602534 
+" style="fill: none; stroke: #6b6b76; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="587.876619" y="173.789147" transform="rotate(-0 587.876619 173.789147)">1%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #ffffff" x="363.805679" y="242.134687" transform="rotate(-0 363.805679 242.134687)">83%</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #1a1a2e" x="542.618659" y="242.134687" transform="rotate(-0 542.618659 242.134687)">9%</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #1a1a2e" x="572.338474" y="242.134687" transform="rotate(-0 572.338474 242.134687)">7%</text>
+   </g>
+   <g id="patch_18">
+    <path d="M 587.925494 226.886598 
+Q 587.925494 228.388095 587.925494 229.889592 
+" style="fill: none; stroke: #6b6b76; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: middle; fill: #6b6b76" x="587.925494" y="221.076206" transform="rotate(-0 587.925494 221.076206)">1%</text>
+   </g>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 10px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #6b6b76" x="7.2" y="72.380875" transform="rotate(-0 7.2 72.380875)">Share of repos with a CLAUDE.md, by how the instructions are organized (weighted)</text>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 16px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #1a1a2e" transform="translate(7.2 23.52)">83% of CLAUDE.md setups are one root file; 7% keep instructions</text>
+   <text style="font-weight: 700; font-size: 16px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #1a1a2e" transform="translate(7.2 47.225)">only in subdirectories</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 8.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #6b6b76" transform="translate(7.2 341.229719)">single = one root file; nested = root plus subdirectory files; nested-only = no root file; imports = root file pulls in other files with @path.</text>
+   <text style="font-size: 8.5px; font-family: 'Inter', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; fill: #6b6b76" transform="translate(7.2 355.093219)">neri census of public GitHub · Nov 2026 · n = 17,960 repos · weighted; 95% intervals</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3b8f5a47b7">
+   <rect x="201.6" y="106.576" width="388.8" height="160.776"/>
+  </clipPath>
+ </defs>
+</svg>

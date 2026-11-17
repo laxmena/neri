@@ -1,0 +1,17 @@
+panel,metric,group,value,ci_lo,ci_hi,n,low_n
+files,CLAUDE.md: directory tree,Popular repos (10+ stars),0.21478888304857377,0.19220112235293127,0.23516080294543204,1720,False
+files,CLAUDE.md: directory tree,Small & personal repos (0–9 stars),0.1731544923377115,0.16665694546903398,0.17960067267460686,16240,False
+files,CLAUDE.md: overview section,Popular repos (10+ stars),0.5351534638338522,0.5074762441184102,0.5625609913714642,1720,False
+files,CLAUDE.md: overview section,Small & personal repos (0–9 stars),0.4219192520879511,0.41375333897214706,0.4306921365318156,16240,False
+files,AGENTS.md: directory tree,Popular repos (10+ stars),0.12588974392129293,0.11217471902660689,0.14078198569316785,2689,False
+files,AGENTS.md: directory tree,Small & personal repos (0–9 stars),0.11205740839954031,0.10663724096276207,0.11739658155010943,18886,False
+files,AGENTS.md: overview section,Popular repos (10+ stars),0.3360527092685857,0.31494708313717884,0.354589338253558,2689,False
+files,AGENTS.md: overview section,Small & personal repos (0–9 stars),0.269920185929418,0.26283898525905663,0.2769205268434154,18886,False
+tokens,CLAUDE.md: directory tree,Popular repos (10+ stars),0.03514417656693833,0.029639736312159402,0.04130572400945954,1720,False
+tokens,CLAUDE.md: directory tree,Small & personal repos (0–9 stars),0.030352284516660683,0.028493745581336234,0.032088469348124656,16240,False
+tokens,CLAUDE.md: overview section,Popular repos (10+ stars),0.21020107751525044,0.18949373453939702,0.23270892884337605,1720,False
+tokens,CLAUDE.md: overview section,Small & personal repos (0–9 stars),0.16484317673710444,0.1574217335139244,0.17215000397292074,16240,False
+tokens,AGENTS.md: directory tree,Popular repos (10+ stars),0.02470494866493417,0.019447799724983388,0.031104234626428858,2689,False
+tokens,AGENTS.md: directory tree,Small & personal repos (0–9 stars),0.024328702608884333,0.022469629600817748,0.02605585819367311,18886,False
+tokens,AGENTS.md: overview section,Popular repos (10+ stars),0.09615924428342067,0.08275793020795856,0.11232922933368411,2689,False
+tokens,AGENTS.md: overview section,Small & personal repos (0–9 stars),0.07883615144774153,0.07445124940684632,0.0838732861145034,18886,False

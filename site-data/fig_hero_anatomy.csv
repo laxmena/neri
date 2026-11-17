@@ -1,0 +1,10 @@
+metric,value
+median_always_loaded_tokens,1379.0
+p90,4469.0
+p25,695.0
+overview_share_files,0.4314244502838983
+overview_token_share,0.16903351414888101
+tree_share_files,0.17664940018731357
+tree_token_share,0.03079497794353876
+signature_share,0.2627700503753343
+cmd_any,0.7364334518308597
